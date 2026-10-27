@@ -1,0 +1,1801 @@
+distance_km,traffic,weather,partner_availability,prep_time_min,order_type,delivery_time_min
+19.46,Moderate,Clear,8,22,Food,89.4
+11.25,High,Clear,10,10,Grocery,67.0
+21.54,Low,Cloudy,4,9,Grocery,94.4
+17.59,High,Clear,3,7,Food,87.9
+2.81,High,Heavy Rain,9,13,Food,47.6
+24.4,High,Clear,6,25,Parcel,123.3
+19.15,Low,Clear,11,27,Food,95.2
+19.76,Moderate,Clear,2,4,Food,82.5
+3.64,Moderate,Clear,1,12,Food,46.7
+11.53,Low,Clear,8,8,Grocery,51.5
+9.58,Moderate,Cloudy,6,20,Parcel,59.5
+23.21,Moderate,Clear,11,16,Grocery,107.2
+16.27,High,Cloudy,8,10,Other,84.3
+20.66,Moderate,Rain,5,14,Parcel,95.0
+11.36,High,Cloudy,2,11,Food,71.6
+6.07,Moderate,Cloudy,2,24,Food,66.7
+14.09,High,Clear,12,17,Food,74.6
+2.06,Moderate,Clear,3,18,Food,49.7
+20.78,Moderate,Clear,8,3,Grocery,80.1
+15.98,Moderate,Heavy Rain,13,14,Food,89.9
+19.07,Very High,Cloudy,14,26,Food,109.2
+9.19,Moderate,Clear,4,22,Food,65.7
+24.28,Moderate,Clear,1,3,Grocery,99.7
+22.38,Moderate,Rain,12,12,Grocery,98.4
+19.57,High,Cloudy,10,7,Other,105.0
+5.27,Low,Cloudy,5,24,Food,49.4
+11.93,Moderate,Rain,9,15,Food,69.0
+1.57,Moderate,Cloudy,3,9,Other,40.7
+4.28,Very High,Cloudy,11,14,Grocery,67.5
+17.23,Moderate,Clear,11,3,Grocery,76.9
+18.75,Moderate,Clear,4,7,Food,75.3
+24.2,Very High,Heavy Rain,7,14,Food,130.9
+8.48,Moderate,Cloudy,5,19,Parcel,56.8
+9.58,Low,Clear,0,3,Grocery,54.3
+12.0,Low,Cloudy,2,12,Grocery,60.7
+5.14,Low,Clear,15,20,Food,39.7
+3.68,Low,Rain,7,5,Food,30.4
+12.15,Moderate,Clear,2,15,Food,71.4
+6.06,High,Rain,0,14,Parcel,67.7
+16.91,High,Cloudy,5,24,Food,105.5
+11.21,Low,Clear,15,13,Food,57.6
+20.9,Moderate,Clear,6,13,Food,93.4
+17.66,Low,Rain,15,19,Parcel,85.8
+8.15,Very High,Clear,7,6,Food,65.1
+20.89,Low,Clear,12,13,Food,81.5
+20.22,High,Rain,12,11,Grocery,110.6
+9.99,Moderate,Clear,0,13,Parcel,74.1
+7.56,High,Clear,0,19,Grocery,74.5
+17.22,Moderate,Clear,14,17,Parcel,89.5
+3.92,High,Rain,14,10,Food,35.8
+5.4,Moderate,Clear,2,15,Parcel,51.0
+0.68,Very High,Clear,10,23,Parcel,59.5
+19.78,Moderate,Clear,14,9,Food,86.0
+16.79,High,Clear,15,15,Grocery,85.2
+17.78,High,Clear,4,13,Food,88.9
+19.63,Very High,Clear,13,14,Food,91.7
+11.74,Moderate,Clear,10,4,Food,54.0
+14.43,Moderate,Clear,14,22,Food,71.2
+3.93,Moderate,Rain,2,9,Other,54.7
+3.31,Moderate,Clear,9,20,Food,47.0
+16.88,Moderate,Clear,0,10,Grocery,83.4
+12.04,Very High,Rain,5,10,Food,85.4
+14.35,Very High,Rain,0,21,Food,105.6
+19.24,Moderate,Cloudy,7,20,Food,94.6
+16.05,High,Clear,12,15,Food,79.2
+14.06,High,Clear,10,19,Grocery,88.1
+14.2,Very High,Clear,5,12,Other,83.5
+7.95,Low,Clear,6,14,Food,39.3
+1.26,Moderate,Clear,5,10,Other,32.4
+11.2,High,Cloudy,11,19,Grocery,77.9
+5.76,Moderate,Clear,4,10,Grocery,47.9
+10.51,Moderate,Cloudy,1,23,Food,73.0
+21.41,Very High,Clear,8,12,Food,112.9
+6.23,Very High,Clear,13,14,Parcel,64.0
+1.93,Very High,Rain,7,19,Grocery,63.9
+7.39,High,Rain,3,14,Food,67.7
+7.69,Moderate,Clear,0,12,Parcel,61.9
+16.72,Moderate,Cloudy,15,14,Food,82.1
+14.15,Moderate,Clear,12,19,Parcel,79.6
+19.71,Moderate,Clear,2,10,Food,91.0
+16.78,Moderate,Rain,1,13,Parcel,85.7
+10.46,High,Clear,2,14,Food,63.3
+20.44,Moderate,Clear,6,19,Food,95.1
+4.59,High,Cloudy,12,13,Grocery,51.4
+1.06,Moderate,Clear,2,25,Food,47.6
+2.71,Moderate,Clear,13,13,Other,38.5
+18.2,Low,Clear,0,13,Grocery,89.7
+11.82,Low,Heavy Rain,11,13,Food,65.7
+4.45,High,Cloudy,4,6,Food,43.8
+12.78,Moderate,Clear,15,8,Parcel,57.3
+4.23,Moderate,Clear,7,11,Grocery,41.7
+17.56,High,Cloudy,4,21,Parcel,94.9
+11.43,Moderate,Clear,3,14,Food,66.8
+9.84,Low,Cloudy,13,11,Parcel,47.6
+7.89,Moderate,Rain,6,21,Food,63.9
+15.94,Low,Clear,5,23,Grocery,89.0
+9.36,High,Clear,11,22,Food,70.9
+2.65,Moderate,Clear,8,9,Food,22.6
+3.39,Low,Clear,10,11,Other,30.8
+24.07,Low,Clear,7,25,Other,105.6
+22.76,Moderate,Rain,1,15,Food,103.8
+17.64,Low,Clear,0,12,Other,86.2
+7.01,High,Cloudy,0,18,Food,70.0
+24.24,Low,Cloudy,9,20,Food,105.9
+19.58,Moderate,Clear,8,11,Food,86.1
+18.06,Moderate,Clear,11,15,Food,82.9
+11.51,Moderate,Clear,14,20,Food,66.6
+7.17,Low,Cloudy,2,7,Food,38.9
+2.86,High,Clear,15,14,Food,40.1
+22.61,High,Rain,14,7,Grocery,101.8
+11.67,Low,Rain,9,8,Parcel,57.8
+5.46,Low,Rain,8,11,Grocery,46.3
+8.0,Very High,Heavy Rain,2,17,Food,87.3
+14.69,Moderate,Rain,2,12,Parcel,96.8
+4.83,Low,Rain,0,10,Food,40.6
+21.49,Low,Rain,10,14,Parcel,97.1
+19.08,High,Rain,6,7,Grocery,91.5
+18.13,High,Rain,3,17,Food,101.7
+11.09,Moderate,Heavy Rain,2,21,Food,85.0
+15.87,Very High,Clear,1,14,Parcel,102.6
+14.81,Moderate,Cloudy,10,13,Other,76.1
+16.42,Moderate,Cloudy,10,16,Grocery,84.1
+2.57,Moderate,Rain,10,3,Other,33.2
+10.69,Moderate,Clear,1,17,Other,67.5
+1.52,Moderate,Rain,0,33,Food,61.1
+12.6,Low,Rain,1,13,Grocery,74.5
+8.58,Moderate,Heavy Rain,12,13,Food,65.9
+4.04,High,Clear,11,18,Food,51.8
+3.03,Low,Cloudy,4,24,Food,44.5
+14.9,Moderate,Rain,0,20,Other,96.2
+4.68,High,Heavy Rain,5,3,Grocery,49.6
+23.17,Moderate,Rain,12,17,Food,110.0
+14.74,High,Cloudy,2,29,Food,97.9
+9.0,High,Cloudy,12,18,Food,69.9
+14.98,High,Clear,7,7,Grocery,81.7
+1.06,Low,Heavy Rain,2,16,Parcel,47.5
+23.98,Moderate,Clear,14,6,Food,88.2
+12.32,Moderate,Cloudy,8,21,Food,73.1
+19.68,Moderate,Rain,10,8,Grocery,93.4
+2.53,Low,Clear,1,14,Food,33.6
+12.42,Moderate,Clear,5,9,Food,59.2
+12.52,Moderate,Clear,10,11,Food,64.1
+23.48,Moderate,Rain,10,23,Food,116.8
+14.51,Low,Cloudy,1,15,Food,73.6
+12.1,High,Clear,9,11,Parcel,63.9
+7.04,Very High,Cloudy,15,7,Food,59.6
+8.62,Low,Clear,12,3,Food,33.7
+13.26,Very High,Rain,3,6,Grocery,90.0
+11.25,Low,Clear,14,15,Other,62.5
+1.03,Very High,Clear,10,20,Food,42.6
+20.74,Very High,Clear,0,11,Food,109.6
+22.46,Low,Cloudy,2,23,Grocery,112.7
+3.94,High,Clear,14,10,Food,43.8
+14.07,Very High,Rain,3,13,Grocery,99.1
+3.16,Very High,Clear,1,8,Food,42.9
+16.97,Very High,Clear,7,20,Food,104.7
+7.39,Moderate,Clear,8,27,Food,63.6
+16.66,Low,Clear,9,3,Grocery,60.8
+18.31,High,Rain,10,12,Food,91.6
+19.33,Moderate,Clear,15,22,Food,94.8
+3.14,Moderate,Heavy Rain,12,5,Food,43.5
+22.94,Moderate,Clear,0,17,Parcel,108.2
+6.14,Moderate,Clear,1,21,Food,61.3
+1.42,Low,Clear,0,14,Grocery,29.2
+14.09,High,Clear,6,17,Grocery,80.5
+9.59,Low,Rain,5,25,Food,62.5
+20.83,High,Cloudy,14,26,Other,113.0
+20.3,High,Clear,5,14,Parcel,107.0
+8.27,Moderate,Cloudy,0,11,Food,65.9
+23.85,Moderate,Cloudy,14,8,Food,96.9
+7.63,Moderate,Heavy Rain,4,20,Food,70.1
+13.12,Very High,Heavy Rain,14,6,Food,86.8
+6.77,High,Cloudy,12,12,Food,55.9
+23.43,Moderate,Rain,14,15,Parcel,103.4
+4.53,Low,Rain,13,11,Parcel,39.8
+1.6,Low,Cloudy,2,16,Food,40.7
+11.16,Moderate,Cloudy,10,29,Food,73.4
+24.81,Very High,Clear,6,13,Food,114.9
+22.35,High,Rain,10,11,Food,106.3
+18.84,Low,Heavy Rain,11,20,Food,100.5
+22.32,High,Clear,8,15,Other,105.7
+22.39,Moderate,Rain,5,23,Parcel,116.7
+13.21,High,Heavy Rain,14,15,Food,91.4
+8.24,Moderate,Clear,10,13,Grocery,62.4
+19.41,Moderate,Cloudy,14,3,Grocery,80.7
+16.71,Very High,Rain,3,4,Parcel,96.6
+9.65,Moderate,Heavy Rain,13,3,Food,65.0
+2.81,High,Clear,5,16,Food,43.5
+18.8,Very High,Clear,7,6,Grocery,90.0
+6.93,Low,Cloudy,13,22,Food,53.5
+23.45,Low,Clear,5,14,Grocery,104.0
+6.4,High,Clear,4,13,Food,56.3
+3.51,Moderate,Clear,14,9,Grocery,35.5
+20.86,Low,Clear,15,18,Parcel,86.9
+4.26,Moderate,Cloudy,4,9,Food,39.0
+4.89,High,Cloudy,4,8,Food,52.1
+15.18,Moderate,Cloudy,3,21,Grocery,85.1
+21.93,Moderate,Rain,0,16,Food,109.0
+5.31,High,Clear,8,13,Grocery,50.9
+8.1,Moderate,Clear,4,18,Grocery,59.3
+19.55,High,Clear,13,14,Food,94.6
+24.31,Moderate,Clear,2,16,Parcel,113.1
+12.77,Very High,Clear,10,9,Food,77.3
+4.03,High,Clear,8,26,Grocery,57.6
+0.84,Low,Clear,9,11,Food,14.0
+6.13,High,Clear,1,23,Food,68.1
+3.73,Moderate,Cloudy,7,13,Food,36.5
+17.1,Low,Cloudy,10,19,Parcel,91.4
+3.48,Low,Heavy Rain,5,18,Parcel,62.3
+12.91,High,Rain,13,21,Parcel,98.0
+17.51,Low,Cloudy,8,9,Food,68.5
+14.74,Moderate,Clear,5,20,Food,82.0
+5.39,Low,Cloudy,0,25,Parcel,64.2
+20.2,Moderate,Clear,2,12,Grocery,98.7
+18.03,Moderate,Clear,7,14,Food,80.5
+18.61,Moderate,Clear,6,11,Parcel,89.8
+3.71,Moderate,Clear,13,12,Food,35.5
+3.53,Low,Clear,12,24,Food,42.5
+23.23,Moderate,Cloudy,2,8,Parcel,95.9
+10.24,Moderate,Rain,9,8,Food,61.3
+7.87,High,Rain,7,24,Food,73.4
+12.47,Low,Cloudy,1,18,Grocery,77.5
+16.74,Low,Cloudy,10,27,Other,93.8
+23.91,Moderate,Clear,8,11,Food,97.8
+7.52,Moderate,Cloudy,1,15,Parcel,61.1
+23.16,Moderate,Cloudy,7,10,Food,98.9
+1.11,High,Clear,11,15,Food,36.6
+14.1,Moderate,Clear,5,3,Food,54.9
+16.03,Moderate,Heavy Rain,5,18,Food,98.0
+3.09,Moderate,Cloudy,1,16,Food,42.3
+3.94,Low,Clear,3,14,Food,31.9
+10.77,Moderate,Cloudy,15,12,Grocery,59.3
+24.17,Moderate,Clear,9,9,Grocery,101.1
+15.1,Moderate,Clear,2,18,Grocery,85.4
+23.36,Low,Clear,7,7,Parcel,80.9
+20.21,High,Clear,3,17,Food,101.1
+11.95,Very High,Cloudy,7,26,Food,96.7
+19.73,Low,Clear,2,23,Food,94.4
+0.94,Moderate,Rain,9,5,Grocery,30.3
+3.17,High,Clear,9,11,Food,44.0
+20.82,Moderate,Cloudy,10,17,Food,98.7
+20.02,High,Cloudy,7,14,Food,101.1
+6.2,High,Cloudy,4,6,Food,38.1
+13.5,Very High,Cloudy,3,16,Other,102.8
+15.35,Very High,Heavy Rain,3,14,Grocery,113.1
+21.76,Low,Cloudy,6,25,Food,112.3
+15.28,Moderate,Rain,7,12,Grocery,79.2
+10.61,Moderate,Cloudy,10,21,Grocery,64.8
+9.67,Low,Clear,0,6,Food,50.0
+10.93,Moderate,Clear,4,8,Food,55.8
+16.47,Very High,Clear,13,18,Grocery,102.7
+21.75,Low,Clear,14,21,Food,99.7
+11.62,Moderate,Clear,14,8,Food,55.7
+6.57,High,Clear,4,14,Food,55.4
+6.3,Moderate,Cloudy,2,6,Parcel,49.6
+18.78,Moderate,Clear,3,13,Other,91.2
+20.51,Very High,Rain,2,19,Parcel,123.2
+3.08,Moderate,Clear,15,11,Food,36.7
+2.13,Low,Cloudy,14,13,Food,33.6
+15.06,Low,Clear,12,7,Grocery,69.0
+4.08,Very High,Clear,11,10,Parcel,52.0
+20.7,Moderate,Clear,5,25,Other,99.6
+8.1,Moderate,Cloudy,7,14,Parcel,55.5
+4.02,Low,Clear,13,8,Food,24.4
+23.06,Moderate,Heavy Rain,13,12,Grocery,113.0
+4.56,Very High,Clear,8,4,Parcel,45.5
+7.48,Moderate,Cloudy,13,8,Grocery,49.1
+4.26,Very High,Clear,5,22,Grocery,64.0
+3.33,Moderate,Cloudy,6,13,Food,33.2
+1.02,Moderate,Clear,13,25,Grocery,49.1
+1.86,High,Clear,6,13,Food,34.9
+4.78,Moderate,Clear,12,14,Food,40.8
+1.81,Moderate,Clear,7,18,Parcel,42.4
+14.98,High,Clear,4,3,Other,80.1
+17.18,Moderate,Heavy Rain,3,15,Parcel,104.4
+10.14,Moderate,Clear,9,14,Food,58.6
+8.29,Very High,Clear,7,23,Food,78.6
+12.86,Low,Heavy Rain,5,20,Food,88.4
+21.94,Moderate,Clear,11,7,Parcel,91.7
+21.35,Low,Clear,0,21,Grocery,97.8
+1.57,Moderate,Cloudy,1,12,Other,39.8
+4.95,Low,Rain,15,9,Food,41.1
+6.3,High,Cloudy,10,15,Grocery,57.0
+6.61,Low,Clear,8,13,Parcel,50.0
+14.5,High,Heavy Rain,0,23,Food,107.7
+10.7,Moderate,Clear,9,16,Other,66.5
+1.71,Moderate,Heavy Rain,6,15,Grocery,55.8
+9.65,Moderate,Rain,9,19,Food,67.2
+13.33,High,Rain,0,21,Food,96.0
+2.99,Moderate,Clear,8,19,Parcel,46.9
+20.92,Moderate,Clear,9,23,Grocery,98.0
+1.77,High,Cloudy,4,18,Parcel,49.3
+23.16,Moderate,Cloudy,0,15,Parcel,114.1
+2.93,Low,Cloudy,15,21,Food,39.3
+21.17,Very High,Rain,11,13,Parcel,121.5
+22.62,Moderate,Cloudy,9,14,Other,96.8
+24.5,Low,Clear,12,24,Food,100.2
+20.15,Moderate,Clear,10,24,Parcel,104.5
+19.6,Low,Clear,2,14,Food,90.2
+16.24,Moderate,Clear,7,11,Food,72.6
+19.59,High,Clear,14,23,Food,104.3
+3.8,Low,Rain,4,19,Parcel,53.8
+13.63,High,Cloudy,15,16,Food,76.0
+13.1,Very High,Cloudy,1,12,Food,84.8
+21.51,Moderate,Clear,5,16,Grocery,101.4
+11.84,High,Cloudy,5,14,Food,77.3
+9.93,High,Rain,9,10,Parcel,65.1
+16.17,Very High,Rain,2,15,Other,108.3
+7.03,Moderate,Cloudy,3,16,Food,54.8
+3.92,Low,Rain,10,12,Food,39.8
+12.21,Moderate,Cloudy,4,19,Other,78.8
+10.71,Moderate,Clear,14,22,Food,65.0
+6.2,Low,Rain,13,20,Food,58.2
+9.5,Moderate,Clear,4,12,Other,59.3
+9.48,Low,Clear,8,19,Parcel,57.2
+8.52,Very High,Clear,5,14,Grocery,67.0
+9.8,Moderate,Cloudy,5,7,Grocery,54.5
+17.3,Low,Cloudy,10,18,Parcel,85.7
+7.77,Low,Cloudy,4,15,Grocery,56.4
+23.75,Moderate,Clear,2,30,Grocery,127.0
+22.95,Moderate,Clear,4,23,Parcel,114.3
+12.28,Low,Rain,14,18,Grocery,82.4
+8.54,Moderate,Clear,4,15,Food,53.5
+13.62,Low,Rain,5,15,Food,66.7
+21.29,Moderate,Clear,10,8,Food,81.8
+16.49,Moderate,Cloudy,1,4,Food,72.3
+20.21,Moderate,Cloudy,4,9,Food,84.8
+13.55,Moderate,Rain,2,14,Food,80.4
+16.01,Low,Clear,14,3,Parcel,67.6
+7.56,Low,Rain,14,11,Food,54.6
+18.5,Low,Cloudy,12,13,Food,81.4
+5.46,High,Cloudy,3,13,Food,63.5
+17.52,Very High,Cloudy,9,10,Food,91.9
+21.59,Very High,Clear,10,12,Parcel,102.4
+3.74,Moderate,Cloudy,13,24,Food,53.8
+15.55,Moderate,Clear,2,18,Food,75.9
+2.83,Moderate,Clear,11,11,Parcel,31.8
+18.28,High,Cloudy,3,14,Food,97.7
+2.57,High,Cloudy,9,14,Food,42.6
+23.43,High,Clear,14,9,Parcel,102.9
+3.87,High,Clear,0,9,Grocery,46.3
+23.99,Moderate,Clear,2,20,Parcel,114.3
+20.12,High,Clear,13,11,Parcel,99.4
+15.05,High,Cloudy,0,7,Other,86.7
+19.67,Moderate,Clear,10,14,Food,83.7
+19.98,Very High,Rain,8,15,Parcel,108.9
+23.68,Low,Clear,5,3,Grocery,86.2
+6.71,Very High,Clear,13,14,Food,63.4
+14.96,High,Rain,13,19,Other,97.8
+2.83,Low,Clear,5,17,Food,31.6
+15.6,High,Clear,0,27,Parcel,95.5
+4.7,Low,Heavy Rain,2,22,Grocery,68.3
+14.34,High,Heavy Rain,1,23,Food,102.9
+14.52,High,Cloudy,15,31,Food,99.8
+11.92,Moderate,Clear,9,19,Parcel,67.9
+13.3,High,Cloudy,10,15,Grocery,77.3
+19.22,Low,Heavy Rain,3,20,Food,105.2
+20.08,Moderate,Heavy Rain,13,11,Food,108.7
+12.56,Moderate,Clear,11,15,Parcel,71.9
+15.19,Low,Clear,12,10,Food,64.6
+23.32,Moderate,Clear,7,16,Grocery,105.7
+3.43,Moderate,Clear,11,10,Grocery,29.6
+3.37,Moderate,Cloudy,8,10,Food,30.0
+2.65,Moderate,Clear,6,16,Grocery,31.2
+16.62,High,Clear,9,13,Food,90.4
+10.76,Moderate,Clear,5,3,Other,61.5
+19.47,High,Cloudy,15,5,Parcel,90.9
+16.95,Moderate,Clear,11,7,Food,72.1
+8.67,Moderate,Clear,11,9,Food,41.7
+22.51,Moderate,Clear,11,16,Food,96.9
+19.18,Moderate,Heavy Rain,7,15,Other,112.6
+7.13,Moderate,Clear,15,20,Food,54.6
+9.42,Moderate,Cloudy,3,19,Grocery,67.9
+8.2,Low,Clear,9,20,Parcel,48.4
+4.36,Moderate,Clear,1,18,Food,55.0
+4.12,Moderate,Clear,4,15,Grocery,46.5
+23.44,Moderate,Clear,9,21,Food,98.6
+11.23,High,Clear,7,20,Grocery,74.1
+9.89,Moderate,Cloudy,15,16,Food,55.5
+18.38,Very High,Cloudy,9,22,Other,112.5
+14.05,High,Clear,6,3,Food,67.4
+23.44,Very High,Clear,6,12,Food,110.7
+19.62,High,Cloudy,9,12,Parcel,99.9
+12.24,Low,Clear,12,21,Parcel,69.3
+9.72,Moderate,Clear,4,23,Grocery,76.4
+24.67,Low,Clear,9,5,Grocery,91.0
+18.09,High,Clear,9,22,Food,109.3
+23.8,Moderate,Clear,0,7,Grocery,101.5
+3.4,Moderate,Heavy Rain,14,7,Food,39.9
+21.34,Very High,Heavy Rain,9,13,Food,116.0
+16.11,Low,Heavy Rain,3,12,Other,91.1
+3.49,Moderate,Clear,10,5,Grocery,24.9
+14.91,High,Clear,10,18,Food,84.4
+17.31,Low,Clear,14,18,Food,71.0
+0.8,Moderate,Clear,0,20,Other,47.1
+11.63,High,Clear,6,11,Food,61.6
+20.72,Low,Clear,2,14,Food,88.7
+7.74,Moderate,Clear,9,14,Food,52.4
+11.73,Moderate,Clear,8,24,Food,81.6
+11.34,High,Clear,7,3,Food,52.8
+7.9,Low,Cloudy,15,8,Other,45.9
+23.0,Very High,Clear,8,14,Food,109.4
+19.64,High,Rain,6,7,Food,91.4
+3.21,Low,Clear,1,12,Grocery,36.1
+24.93,Moderate,Cloudy,4,13,Grocery,114.6
+22.04,Moderate,Clear,14,10,Grocery,92.4
+7.46,High,Cloudy,7,14,Grocery,71.1
+21.0,Moderate,Clear,14,18,Grocery,100.8
+3.11,Low,Clear,8,13,Grocery,29.6
+24.98,Low,Cloudy,8,11,Parcel,99.0
+16.81,Very High,Clear,6,13,Grocery,93.9
+16.43,Moderate,Clear,8,14,Parcel,83.1
+2.72,High,Rain,1,4,Food,37.9
+22.48,Moderate,Clear,0,17,Grocery,104.3
+1.21,Very High,Cloudy,7,11,Grocery,45.4
+6.4,Low,Cloudy,9,22,Food,53.6
+4.0,Low,Clear,8,18,Parcel,45.3
+19.53,Very High,Clear,6,21,Food,115.1
+5.36,Very High,Clear,4,8,Food,56.7
+22.81,Moderate,Cloudy,11,12,Parcel,99.4
+16.58,Moderate,Clear,9,7,Food,73.6
+1.39,Moderate,Clear,0,10,Food,28.7
+0.63,Moderate,Clear,7,22,Food,28.6
+1.77,Low,Rain,11,23,Parcel,47.2
+15.35,High,Rain,12,7,Food,76.6
+20.14,Moderate,Heavy Rain,4,11,Grocery,106.2
+6.34,High,Cloudy,14,14,Parcel,58.1
+21.31,Low,Cloudy,10,18,Grocery,98.1
+1.9,Low,Cloudy,7,3,Other,26.6
+20.12,High,Rain,10,4,Parcel,98.7
+23.23,Moderate,Cloudy,13,17,Food,103.8
+19.42,High,Clear,3,3,Other,89.4
+17.6,Low,Cloudy,2,11,Food,80.0
+21.03,Very High,Cloudy,7,15,Food,106.8
+1.48,High,Clear,1,16,Food,44.8
+5.44,High,Clear,13,13,Grocery,63.3
+3.56,Low,Clear,15,12,Food,30.8
+12.86,Moderate,Rain,9,19,Grocery,83.7
+18.76,Moderate,Clear,15,16,Food,83.3
+15.94,Moderate,Rain,1,10,Food,88.5
+21.35,Moderate,Clear,10,14,Food,95.2
+4.3,Low,Rain,7,16,Parcel,49.4
+18.5,Moderate,Clear,4,24,Food,97.2
+5.23,Moderate,Rain,4,19,Food,61.3
+7.13,Moderate,Cloudy,8,21,Food,62.2
+17.89,Low,Clear,10,10,Food,73.6
+24.52,Moderate,Clear,2,11,Grocery,107.6
+15.48,High,Clear,9,13,Food,83.6
+1.84,Moderate,Clear,14,13,Food,27.1
+15.6,Moderate,Cloudy,0,8,Parcel,77.5
+1.54,Moderate,Heavy Rain,14,22,Food,52.6
+22.16,High,Cloudy,9,19,Food,101.7
+17.88,Moderate,Cloudy,5,12,Parcel,89.7
+4.74,Moderate,Clear,11,18,Grocery,44.8
+2.75,Very High,Rain,9,15,Grocery,59.6
+5.0,Moderate,Rain,12,18,Food,51.6
+24.51,Very High,Clear,1,6,Food,115.1
+11.73,High,Heavy Rain,0,13,Food,88.0
+19.71,Low,Clear,10,14,Food,81.8
+16.09,Moderate,Rain,4,18,Food,89.6
+14.52,High,Heavy Rain,3,10,Other,95.2
+4.06,Very High,Cloudy,6,3,Grocery,46.5
+23.68,Moderate,Clear,11,8,Food,97.7
+7.88,Low,Cloudy,2,14,Food,44.0
+14.66,Moderate,Clear,15,14,Grocery,74.6
+17.64,Low,Rain,6,24,Food,91.8
+16.41,High,Clear,2,17,Food,93.5
+23.54,Moderate,Cloudy,1,14,Food,101.2
+4.14,High,Rain,13,14,Grocery,54.8
+12.95,High,Clear,1,21,Grocery,89.7
+10.4,High,Clear,6,10,Food,66.5
+12.12,Moderate,Cloudy,10,13,Food,65.9
+3.42,High,Clear,8,7,Grocery,35.9
+3.79,High,Clear,4,23,Grocery,58.8
+7.31,High,Clear,1,16,Grocery,71.2
+7.97,Low,Clear,11,10,Food,36.9
+10.98,Moderate,Cloudy,7,13,Grocery,64.7
+15.47,Low,Cloudy,0,17,Other,85.9
+16.05,High,Clear,2,12,Grocery,88.2
+10.59,High,Clear,9,11,Food,73.6
+10.52,Moderate,Clear,2,10,Grocery,62.0
+5.83,Low,Clear,6,16,Food,43.9
+14.91,Moderate,Cloudy,1,12,Food,75.2
+8.27,High,Clear,12,11,Food,57.7
+1.38,Low,Cloudy,10,6,Parcel,25.8
+10.75,Low,Rain,12,14,Food,59.0
+12.12,High,Cloudy,0,13,Parcel,81.4
+6.03,High,Cloudy,6,12,Food,49.1
+14.53,Low,Clear,4,15,Food,65.5
+14.36,Moderate,Clear,9,18,Food,78.7
+17.7,Very High,Clear,13,18,Grocery,101.7
+16.37,High,Rain,3,17,Food,88.1
+16.48,Moderate,Rain,12,13,Food,90.1
+8.25,Moderate,Clear,9,11,Food,45.4
+19.79,Moderate,Clear,13,8,Food,80.4
+13.95,Low,Clear,1,10,Food,72.8
+11.07,High,Cloudy,15,14,Food,68.8
+15.84,Low,Cloudy,6,9,Food,67.5
+9.34,Low,Cloudy,4,15,Other,56.0
+13.06,High,Rain,2,8,Food,72.9
+18.55,Very High,Clear,15,4,Food,87.8
+22.22,High,Cloudy,14,19,Food,110.3
+23.07,Moderate,Cloudy,2,11,Food,102.7
+12.84,Moderate,Clear,7,9,Grocery,62.9
+13.25,Moderate,Rain,11,7,Food,67.2
+20.1,Moderate,Clear,9,17,Food,84.0
+8.2,Moderate,Cloudy,3,22,Grocery,71.3
+21.02,Moderate,Cloudy,5,12,Food,93.8
+12.61,Moderate,Rain,5,13,Other,86.0
+3.34,High,Cloudy,4,20,Other,59.4
+2.27,Very High,Clear,15,3,Food,33.3
+21.13,Low,Rain,3,26,Food,109.3
+1.86,Moderate,Rain,11,29,Food,52.5
+7.37,Low,Cloudy,14,3,Food,36.6
+8.69,Moderate,Rain,12,13,Food,59.0
+4.74,Moderate,Clear,12,10,Grocery,35.7
+8.19,Low,Cloudy,2,12,Food,44.8
+18.7,High,Rain,2,11,Food,101.0
+0.86,Moderate,Clear,12,19,Food,39.2
+20.77,Very High,Cloudy,11,13,Other,111.7
+21.49,Low,Heavy Rain,11,9,Parcel,102.9
+9.62,Low,Rain,6,13,Food,61.9
+4.26,Moderate,Rain,8,17,Grocery,54.3
+15.22,Low,Clear,0,7,Food,64.9
+3.43,Moderate,Heavy Rain,4,4,Grocery,48.4
+9.44,Very High,Clear,8,26,Grocery,91.1
+23.98,Low,Cloudy,2,10,Parcel,103.5
+24.89,Low,Clear,2,13,Food,105.2
+19.42,Moderate,Rain,0,12,Food,96.4
+8.12,Moderate,Rain,3,17,Other,69.4
+17.35,Moderate,Rain,15,25,Food,97.3
+17.78,Moderate,Cloudy,11,17,Food,85.9
+10.0,High,Clear,15,5,Grocery,63.7
+16.2,Low,Cloudy,4,6,Parcel,61.8
+0.76,Moderate,Cloudy,9,12,Grocery,32.5
+5.62,High,Clear,14,12,Parcel,51.1
+13.36,High,Cloudy,5,4,Grocery,66.9
+4.51,Moderate,Rain,10,19,Food,54.7
+4.56,Moderate,Cloudy,11,7,Grocery,36.2
+20.99,Low,Rain,13,23,Parcel,103.6
+24.73,Low,Clear,15,25,Parcel,119.1
+14.12,Low,Cloudy,9,13,Food,69.8
+21.06,High,Clear,9,17,Food,103.6
+24.76,Moderate,Clear,13,7,Parcel,100.3
+3.97,High,Clear,10,18,Food,48.6
+11.48,Low,Clear,5,11,Food,63.6
+10.12,High,Clear,10,7,Parcel,63.6
+2.46,High,Cloudy,8,12,Food,37.6
+19.01,Low,Clear,3,11,Food,75.3
+11.13,Low,Clear,8,12,Food,55.8
+12.0,Low,Clear,9,20,Food,64.0
+4.19,High,Cloudy,14,9,Parcel,40.3
+4.93,Moderate,Clear,9,24,Food,53.0
+22.72,Moderate,Clear,2,6,Food,92.4
+1.59,Moderate,Cloudy,15,24,Food,45.1
+6.2,High,Clear,9,8,Food,48.0
+7.66,Moderate,Rain,4,14,Food,57.3
+12.51,Moderate,Clear,12,11,Food,64.3
+14.87,Very High,Clear,6,12,Food,84.1
+12.59,Low,Clear,5,19,Food,65.3
+2.56,High,Cloudy,13,23,Food,49.8
+6.47,Low,Clear,13,21,Food,52.6
+21.17,Moderate,Rain,8,12,Food,95.5
+16.12,High,Clear,5,15,Food,91.5
+16.4,High,Cloudy,13,9,Food,88.0
+16.92,High,Clear,2,8,Food,81.5
+19.19,Moderate,Clear,11,7,Food,66.8
+1.92,Moderate,Clear,9,11,Grocery,37.1
+9.48,Moderate,Cloudy,13,15,Food,57.0
+13.72,Moderate,Clear,6,3,Parcel,58.1
+8.79,Moderate,Heavy Rain,13,14,Grocery,68.9
+21.19,Moderate,Cloudy,0,23,Food,108.0
+12.32,Moderate,Heavy Rain,12,21,Food,90.4
+19.33,Moderate,Clear,1,10,Food,88.6
+21.37,Moderate,Rain,10,6,Food,96.4
+12.87,Low,Cloudy,3,17,Food,71.9
+22.78,High,Cloudy,15,3,Food,93.4
+14.88,Moderate,Heavy Rain,12,21,Parcel,94.6
+21.33,Low,Cloudy,1,13,Food,96.4
+8.84,High,Rain,14,25,Grocery,85.7
+12.72,High,Cloudy,4,4,Parcel,74.4
+13.52,Moderate,Clear,8,20,Food,72.9
+3.07,Low,Cloudy,1,13,Parcel,41.2
+10.26,Low,Cloudy,1,12,Other,66.1
+22.97,Low,Rain,3,6,Food,93.7
+15.96,High,Rain,8,18,Food,88.9
+4.85,Very High,Clear,8,18,Food,56.8
+8.8,Low,Clear,13,25,Food,58.3
+5.19,High,Clear,2,20,Food,62.7
+1.11,Low,Cloudy,11,10,Food,27.5
+23.22,Moderate,Clear,0,8,Food,93.6
+11.48,High,Cloudy,4,6,Parcel,66.2
+8.03,Moderate,Cloudy,2,23,Food,65.5
+15.16,Low,Rain,1,9,Food,79.2
+0.68,Moderate,Clear,9,23,Food,35.0
+7.31,Very High,Cloudy,14,17,Parcel,69.9
+17.72,Moderate,Clear,10,16,Grocery,81.3
+16.03,Low,Rain,13,12,Food,77.6
+24.55,Low,Clear,9,18,Grocery,104.5
+15.7,Moderate,Clear,0,14,Food,79.1
+12.2,Moderate,Clear,5,12,Grocery,66.8
+19.16,High,Rain,13,18,Grocery,111.9
+22.63,High,Clear,0,13,Food,105.1
+18.16,High,Cloudy,1,9,Grocery,92.9
+24.1,High,Rain,13,18,Parcel,126.7
+19.66,Moderate,Rain,1,14,Parcel,103.2
+21.74,Moderate,Clear,15,17,Food,99.1
+3.3,Moderate,Clear,12,11,Grocery,38.8
+18.44,Moderate,Clear,10,7,Food,76.0
+11.28,Very High,Clear,8,24,Parcel,87.6
+14.05,High,Cloudy,1,23,Parcel,99.9
+16.53,Very High,Clear,6,19,Food,102.9
+24.26,Moderate,Clear,12,12,Food,103.5
+24.62,Moderate,Clear,14,12,Food,95.6
+7.56,Moderate,Cloudy,7,22,Food,64.7
+18.48,Low,Clear,13,12,Food,74.9
+18.87,Moderate,Cloudy,12,10,Food,79.5
+8.99,Moderate,Clear,0,25,Grocery,75.2
+3.53,Low,Heavy Rain,9,14,Food,49.3
+1.5,Very High,Cloudy,9,25,Food,60.8
+19.54,Low,Clear,8,6,Grocery,76.6
+12.5,Low,Clear,12,17,Food,66.1
+24.65,High,Clear,14,26,Food,122.0
+11.89,Low,Clear,8,14,Parcel,58.6
+24.46,Very High,Clear,5,12,Other,119.0
+10.58,High,Rain,15,7,Grocery,71.4
+19.95,Low,Cloudy,15,20,Food,90.5
+2.58,High,Clear,10,9,Food,30.5
+14.11,High,Cloudy,10,13,Other,86.1
+20.15,High,Clear,1,7,Grocery,96.5
+23.16,High,Heavy Rain,6,23,Parcel,138.2
+20.65,High,Clear,3,21,Grocery,106.4
+1.41,Moderate,Rain,8,14,Food,36.6
+9.63,Moderate,Rain,13,7,Food,53.1
+1.69,High,Clear,3,23,Parcel,50.3
+3.18,Very High,Clear,15,12,Parcel,49.9
+17.04,Moderate,Clear,2,7,Food,83.9
+17.97,High,Rain,1,3,Grocery,95.3
+19.46,Moderate,Cloudy,15,10,Food,81.2
+21.7,High,Cloudy,1,5,Other,97.0
+18.62,Very High,Rain,11,10,Food,94.8
+20.12,Low,Rain,12,18,Grocery,96.2
+1.7,Low,Clear,5,12,Food,23.7
+6.25,Moderate,Cloudy,1,16,Grocery,58.5
+15.74,Moderate,Cloudy,4,10,Grocery,70.7
+21.52,Moderate,Clear,1,14,Food,98.3
+0.61,Low,Rain,10,26,Parcel,49.0
+13.11,Moderate,Clear,14,12,Parcel,74.1
+17.09,Moderate,Clear,15,16,Parcel,76.4
+1.23,Moderate,Rain,12,5,Food,24.6
+10.33,High,Clear,12,23,Grocery,74.6
+22.44,High,Clear,14,11,Grocery,104.1
+16.95,High,Clear,12,20,Grocery,90.7
+6.32,High,Cloudy,10,13,Food,60.3
+21.39,High,Rain,15,18,Grocery,114.5
+9.03,Moderate,Clear,5,18,Food,59.5
+21.41,Moderate,Clear,6,11,Food,96.7
+7.82,Low,Clear,14,21,Food,52.2
+14.96,Moderate,Heavy Rain,4,9,Food,86.0
+10.23,Moderate,Clear,4,19,Food,62.7
+7.23,High,Heavy Rain,2,12,Food,66.9
+22.22,High,Rain,4,16,Parcel,114.4
+5.1,Low,Clear,9,11,Food,42.6
+2.58,Moderate,Rain,14,14,Food,43.5
+8.88,Moderate,Cloudy,2,8,Parcel,58.6
+18.08,High,Cloudy,10,15,Parcel,91.1
+20.28,High,Clear,12,14,Parcel,102.5
+24.97,Moderate,Rain,14,11,Parcel,105.0
+7.76,Moderate,Rain,12,14,Other,55.8
+10.49,Moderate,Rain,2,15,Grocery,73.3
+3.85,Moderate,Heavy Rain,7,10,Other,60.8
+14.58,High,Clear,15,13,Other,89.8
+24.94,High,Rain,14,8,Food,109.5
+17.67,Moderate,Rain,9,28,Parcel,102.1
+15.08,Moderate,Clear,15,20,Parcel,75.2
+10.11,Low,Clear,10,16,Parcel,57.7
+22.92,Low,Clear,1,21,Parcel,108.7
+12.67,Low,Rain,14,3,Food,59.4
+3.79,Moderate,Clear,2,3,Food,35.4
+9.45,Very High,Cloudy,6,12,Grocery,74.5
+2.15,Moderate,Clear,3,6,Grocery,34.9
+5.45,Moderate,Clear,11,13,Parcel,42.1
+0.93,Low,Cloudy,0,15,Parcel,39.0
+11.61,Moderate,Clear,10,20,Grocery,70.0
+16.05,High,Rain,13,7,Other,89.6
+8.91,Moderate,Clear,12,16,Food,57.1
+10.8,High,Rain,4,14,Other,81.8
+24.0,High,Clear,14,16,Food,112.6
+18.92,Low,Heavy Rain,5,11,Grocery,90.4
+13.75,Moderate,Cloudy,10,22,Food,74.4
+7.47,Very High,Clear,8,13,Grocery,66.1
+22.48,Moderate,Clear,1,25,Food,106.9
+6.26,Low,Clear,0,9,Food,40.8
+8.47,Very High,Cloudy,2,18,Grocery,80.8
+22.77,High,Rain,14,14,Grocery,119.8
+13.47,Moderate,Clear,15,12,Food,66.3
+18.69,Moderate,Clear,6,18,Grocery,97.1
+14.97,Low,Cloudy,15,12,Food,68.6
+16.51,High,Cloudy,0,3,Food,80.0
+7.83,Moderate,Cloudy,15,3,Food,41.8
+6.41,Low,Clear,3,22,Grocery,59.8
+8.4,High,Cloudy,0,21,Parcel,82.8
+4.31,Very High,Heavy Rain,12,25,Grocery,82.8
+21.92,High,Clear,6,14,Parcel,98.4
+7.44,Moderate,Clear,4,6,Grocery,41.2
+14.26,Low,Clear,12,11,Parcel,63.9
+19.9,Very High,Cloudy,5,14,Other,102.3
+19.7,Very High,Clear,12,8,Food,103.3
+11.24,Moderate,Heavy Rain,3,24,Food,91.2
+12.17,High,Cloudy,1,27,Food,89.2
+24.87,Moderate,Cloudy,5,17,Grocery,109.7
+17.03,Moderate,Rain,9,14,Food,89.9
+20.46,Low,Clear,3,6,Food,76.0
+22.61,Low,Rain,2,23,Parcel,111.0
+19.8,Moderate,Clear,11,14,Other,89.3
+5.04,High,Cloudy,7,12,Food,49.1
+14.27,Low,Heavy Rain,6,17,Food,85.7
+3.0,Moderate,Rain,3,10,Food,47.1
+16.5,Moderate,Rain,0,15,Food,96.3
+23.91,Low,Clear,0,5,Parcel,96.1
+13.06,Low,Rain,10,21,Grocery,83.6
+11.11,Moderate,Cloudy,1,13,Food,64.8
+1.38,Moderate,Cloudy,3,21,Food,36.0
+24.01,High,Clear,14,13,Food,103.7
+3.02,Very High,Clear,5,13,Food,48.1
+1.51,Low,Cloudy,11,7,Food,18.2
+6.53,Very High,Clear,5,19,Grocery,68.4
+2.11,Very High,Rain,14,9,Food,47.7
+11.65,High,Rain,13,11,Parcel,78.6
+13.14,High,Rain,7,14,Food,87.6
+8.16,High,Clear,10,15,Parcel,55.4
+1.75,High,Heavy Rain,6,4,Food,38.3
+3.23,High,Clear,15,13,Food,38.8
+9.92,Low,Clear,5,19,Parcel,64.8
+1.98,Very High,Rain,13,12,Grocery,55.3
+17.61,Moderate,Clear,9,13,Food,76.7
+5.57,High,Clear,10,15,Food,54.1
+7.9,Moderate,Clear,5,13,Grocery,59.3
+10.16,Low,Cloudy,13,8,Other,53.4
+10.71,Moderate,Rain,11,14,Grocery,66.9
+0.54,Moderate,Clear,13,20,Food,34.8
+3.25,Moderate,Clear,12,8,Food,29.1
+21.64,Moderate,Cloudy,2,12,Food,97.1
+0.53,Moderate,Clear,14,6,Food,17.6
+12.95,Moderate,Rain,13,20,Grocery,86.8
+12.49,Moderate,Heavy Rain,3,13,Parcel,85.7
+8.66,Very High,Rain,15,9,Food,74.0
+11.07,Low,Rain,8,15,Parcel,71.7
+19.62,Moderate,Cloudy,5,7,Grocery,89.7
+21.11,Moderate,Rain,3,8,Parcel,97.4
+6.88,Moderate,Clear,5,5,Food,44.5
+8.4,Moderate,Clear,0,8,Food,54.9
+6.44,High,Cloudy,11,22,Food,73.4
+12.26,Very High,Clear,11,10,Food,76.2
+17.24,Moderate,Rain,10,17,Food,92.2
+6.09,High,Cloudy,8,9,Food,50.0
+8.6,Low,Heavy Rain,5,19,Food,68.3
+23.29,Moderate,Clear,11,8,Food,91.2
+1.69,Moderate,Cloudy,13,14,Parcel,37.4
+11.79,Low,Rain,1,14,Parcel,75.6
+17.93,Moderate,Clear,6,28,Food,101.2
+4.19,High,Cloudy,15,18,Other,58.2
+1.66,High,Cloudy,13,10,Food,34.3
+3.89,Moderate,Heavy Rain,15,18,Food,54.8
+23.01,Moderate,Rain,2,27,Parcel,120.0
+0.73,Moderate,Clear,7,4,Food,24.9
+5.11,Low,Clear,2,9,Food,34.7
+1.27,Low,Cloudy,13,13,Food,29.8
+3.21,High,Clear,8,11,Food,41.1
+15.69,Very High,Clear,3,12,Grocery,96.9
+6.42,Low,Clear,1,6,Food,38.4
+14.45,Moderate,Clear,11,22,Food,75.6
+14.96,High,Cloudy,12,5,Food,68.5
+21.31,High,Clear,14,13,Food,105.0
+0.62,Moderate,Cloudy,15,20,Food,36.4
+21.41,Moderate,Clear,13,14,Parcel,99.9
+15.67,High,Cloudy,12,8,Grocery,87.1
+4.49,High,Clear,12,6,Food,37.3
+19.44,Low,Rain,15,13,Grocery,93.0
+21.46,Very High,Clear,7,9,Food,102.7
+6.73,Low,Cloudy,12,15,Food,40.2
+23.01,High,Clear,13,6,Food,95.6
+11.63,Low,Clear,1,19,Food,70.4
+15.28,Low,Clear,11,15,Grocery,71.4
+24.62,Low,Rain,5,15,Other,111.0
+9.36,Moderate,Rain,2,23,Food,75.3
+20.42,Moderate,Clear,2,11,Food,99.7
+8.3,Low,Clear,1,10,Grocery,45.4
+20.08,Moderate,Cloudy,14,11,Food,89.3
+15.22,Moderate,Cloudy,12,13,Food,73.2
+5.8,High,Clear,1,13,Other,58.4
+10.64,High,Rain,10,9,Parcel,69.9
+8.28,High,Cloudy,10,3,Other,57.3
+2.41,Low,Cloudy,8,11,Food,30.4
+1.23,Moderate,Clear,9,16,Food,32.6
+8.99,Very High,Clear,14,15,Food,74.2
+0.97,Low,Clear,8,21,Other,41.1
+4.55,Moderate,Rain,10,26,Food,62.4
+18.27,Very High,Clear,9,19,Food,100.5
+17.85,Very High,Rain,6,22,Food,114.3
+18.6,Moderate,Rain,14,19,Parcel,100.7
+8.27,High,Rain,6,24,Parcel,76.4
+22.31,Moderate,Clear,12,25,Grocery,103.9
+15.05,High,Clear,9,20,Food,77.6
+3.59,Low,Clear,10,18,Grocery,40.4
+4.02,Low,Cloudy,12,13,Food,35.7
+17.48,Moderate,Rain,11,14,Food,82.5
+4.74,Moderate,Clear,9,12,Food,42.9
+12.93,High,Rain,9,18,Food,84.7
+24.8,Moderate,Clear,8,10,Food,104.3
+0.6,High,Clear,5,13,Other,42.3
+0.91,High,Clear,11,3,Food,20.6
+24.83,Moderate,Rain,14,24,Food,121.8
+14.82,High,Clear,11,13,Grocery,84.6
+3.61,Moderate,Clear,12,17,Grocery,42.0
+22.48,Moderate,Rain,13,23,Food,105.9
+22.07,Low,Cloudy,5,16,Grocery,99.8
+13.64,High,Clear,1,23,Food,86.3
+15.73,High,Clear,5,7,Food,81.2
+7.19,Very High,Cloudy,12,28,Grocery,81.7
+1.74,High,Clear,13,21,Grocery,56.3
+15.07,Very High,Clear,8,15,Food,80.2
+7.72,Moderate,Cloudy,12,23,Food,61.5
+16.76,Very High,Clear,1,7,Food,97.7
+20.99,Moderate,Cloudy,10,12,Food,87.5
+0.94,Moderate,Clear,10,23,Parcel,40.3
+15.09,Moderate,Clear,8,3,Food,60.2
+6.17,Moderate,Clear,11,17,Parcel,48.4
+21.91,Moderate,Clear,7,17,Food,97.9
+6.71,Moderate,Clear,8,26,Parcel,56.6
+15.46,Low,Clear,9,5,Food,59.5
+14.06,Moderate,Rain,12,24,Food,88.6
+10.21,High,Rain,3,11,Food,71.8
+17.1,High,Clear,4,11,Food,82.0
+18.28,Moderate,Cloudy,6,7,Parcel,85.8
+14.39,Moderate,Cloudy,3,7,Grocery,76.5
+19.08,Moderate,Rain,5,16,Grocery,96.0
+24.59,Low,Clear,5,7,Food,87.1
+10.77,High,Clear,5,18,Grocery,72.6
+13.11,Low,Clear,6,10,Grocery,64.8
+0.81,High,Clear,8,7,Parcel,32.6
+20.0,High,Clear,11,11,Grocery,99.2
+13.25,Moderate,Rain,4,16,Grocery,81.8
+10.5,High,Rain,13,12,Food,66.9
+2.8,Moderate,Clear,7,14,Other,43.4
+22.3,High,Clear,11,18,Food,103.9
+10.18,High,Clear,1,20,Food,77.3
+17.22,High,Cloudy,2,12,Parcel,88.2
+4.16,High,Cloudy,7,8,Food,39.6
+24.06,High,Clear,5,14,Food,113.6
+4.87,Very High,Rain,7,17,Food,63.2
+5.39,Moderate,Heavy Rain,2,5,Food,56.0
+21.55,High,Cloudy,7,9,Other,92.5
+22.86,High,Cloudy,10,10,Parcel,102.6
+5.7,Moderate,Cloudy,11,13,Food,44.0
+12.01,Very High,Clear,3,9,Other,89.2
+18.47,Moderate,Clear,5,18,Grocery,88.6
+22.02,Moderate,Cloudy,8,4,Parcel,91.9
+9.79,Low,Clear,8,5,Food,46.6
+13.17,Moderate,Rain,12,12,Food,68.9
+18.67,High,Clear,6,13,Food,89.4
+18.41,Moderate,Clear,10,5,Food,74.6
+19.68,Moderate,Clear,14,10,Grocery,81.1
+14.46,Moderate,Heavy Rain,4,12,Food,84.0
+3.06,Moderate,Clear,13,12,Food,38.6
+22.65,High,Clear,5,15,Grocery,112.3
+21.71,High,Clear,5,10,Food,97.7
+20.05,Low,Cloudy,10,23,Food,94.6
+2.95,Moderate,Heavy Rain,9,17,Grocery,58.5
+5.51,Moderate,Clear,8,9,Parcel,44.2
+18.72,Moderate,Rain,3,15,Food,93.8
+1.07,Moderate,Clear,1,15,Other,47.5
+24.49,Moderate,Cloudy,14,21,Parcel,119.2
+9.74,Moderate,Clear,13,10,Grocery,58.9
+18.12,Moderate,Cloudy,14,19,Food,85.8
+22.25,Moderate,Cloudy,8,14,Grocery,96.9
+10.17,Moderate,Cloudy,14,23,Parcel,70.2
+8.32,High,Clear,7,22,Food,67.0
+15.41,High,Rain,1,15,Other,92.7
+14.73,Moderate,Heavy Rain,3,12,Parcel,92.6
+10.52,High,Clear,4,17,Food,76.8
+15.24,High,Cloudy,6,13,Grocery,88.5
+23.42,Low,Rain,15,24,Food,107.9
+11.96,Moderate,Clear,5,14,Parcel,64.9
+5.32,Moderate,Rain,9,12,Parcel,51.7
+9.74,High,Clear,4,11,Food,62.6
+10.16,Moderate,Rain,10,7,Food,59.3
+3.71,High,Clear,9,17,Food,49.9
+4.49,Moderate,Clear,2,9,Parcel,47.3
+17.27,Moderate,Cloudy,7,21,Food,84.0
+8.82,Very High,Cloudy,1,6,Parcel,72.2
+23.9,Moderate,Rain,14,15,Food,106.6
+6.47,High,Heavy Rain,11,21,Food,73.7
+2.92,Very High,Clear,15,3,Parcel,45.5
+18.96,High,Clear,14,26,Grocery,111.7
+22.09,Low,Clear,3,11,Food,96.1
+7.31,High,Clear,11,15,Food,58.4
+5.45,Low,Cloudy,1,17,Food,48.5
+5.05,Moderate,Rain,15,18,Food,51.6
+13.29,High,Rain,12,16,Food,76.3
+11.98,High,Clear,10,20,Grocery,85.5
+6.86,Moderate,Clear,15,17,Food,49.0
+1.61,Moderate,Cloudy,13,25,Food,46.0
+12.3,High,Clear,13,17,Food,76.8
+24.0,High,Clear,1,26,Food,120.4
+16.49,Moderate,Clear,0,19,Other,90.4
+12.64,High,Clear,15,3,Food,67.4
+3.21,Moderate,Clear,4,30,Food,56.1
+6.68,Low,Rain,6,11,Grocery,48.4
+7.72,High,Clear,0,23,Parcel,75.4
+19.24,Very High,Cloudy,9,14,Parcel,110.0
+21.98,Moderate,Cloudy,13,20,Parcel,108.9
+22.59,Moderate,Rain,13,10,Parcel,96.2
+24.62,Low,Clear,9,18,Grocery,111.9
+24.57,High,Clear,10,12,Other,116.0
+23.85,Moderate,Clear,8,23,Food,108.3
+2.26,Moderate,Clear,7,17,Parcel,34.2
+3.88,Very High,Clear,8,20,Parcel,66.2
+7.96,Low,Rain,14,3,Parcel,46.6
+14.05,Moderate,Clear,4,13,Food,65.7
+2.88,Moderate,Clear,7,16,Parcel,39.0
+21.22,High,Clear,9,15,Food,112.3
+15.61,Moderate,Rain,9,20,Grocery,91.5
+13.79,Moderate,Rain,0,12,Food,77.8
+4.55,Low,Rain,4,14,Grocery,45.1
+6.7,High,Cloudy,10,21,Grocery,73.9
+4.43,High,Cloudy,11,3,Food,41.1
+21.37,Low,Cloudy,11,18,Food,98.9
+14.81,Moderate,Clear,15,12,Food,70.9
+18.51,High,Cloudy,10,9,Grocery,96.4
+7.75,Low,Rain,9,16,Grocery,54.6
+9.6,Moderate,Clear,5,21,Grocery,69.4
+10.42,Moderate,Cloudy,5,20,Food,69.5
+19.12,Moderate,Cloudy,13,13,Parcel,94.8
+19.42,Moderate,Cloudy,7,19,Grocery,98.5
+5.57,Moderate,Clear,11,19,Food,45.8
+23.57,Low,Cloudy,1,13,Food,101.3
+3.46,Moderate,Rain,2,10,Food,38.0
+22.45,High,Clear,3,10,Food,93.3
+2.96,Moderate,Clear,3,19,Food,47.5
+6.98,Low,Clear,9,14,Food,41.1
+21.24,High,Clear,10,8,Food,91.8
+4.9,Low,Heavy Rain,8,4,Food,43.5
+10.63,High,Cloudy,4,19,Food,81.5
+11.52,Moderate,Clear,9,11,Parcel,63.8
+6.51,High,Clear,1,16,Food,68.9
+17.9,Low,Heavy Rain,7,21,Food,99.5
+21.36,Low,Clear,2,6,Grocery,89.4
+21.93,Moderate,Cloudy,1,14,Food,102.9
+8.81,Low,Clear,2,13,Food,47.2
+13.51,Moderate,Clear,1,16,Food,79.7
+6.59,High,Cloudy,7,21,Food,52.6
+6.5,High,Clear,8,6,Grocery,46.8
+4.45,Low,Cloudy,9,17,Food,39.9
+23.53,High,Clear,7,20,Food,108.8
+22.26,High,Rain,2,13,Grocery,115.2
+19.55,High,Rain,0,13,Other,119.0
+13.18,High,Cloudy,11,17,Food,83.3
+12.52,High,Clear,15,16,Food,71.1
+13.48,Moderate,Cloudy,4,17,Food,73.9
+13.65,High,Heavy Rain,3,17,Grocery,95.2
+11.15,Very High,Clear,4,8,Grocery,79.4
+3.73,Low,Clear,3,20,Grocery,45.6
+3.58,Moderate,Rain,3,21,Food,47.2
+23.83,Low,Clear,7,15,Food,96.3
+12.31,Very High,Cloudy,12,5,Parcel,76.9
+23.85,Moderate,Rain,11,13,Food,109.8
+4.51,High,Clear,15,15,Other,52.7
+14.08,High,Cloudy,5,7,Food,72.2
+5.59,Very High,Cloudy,7,12,Food,66.3
+6.7,Low,Clear,6,6,Food,34.8
+1.24,High,Rain,0,18,Food,57.7
+3.41,High,Clear,6,15,Parcel,46.4
+22.96,Low,Clear,4,4,Food,87.9
+8.38,High,Rain,7,16,Grocery,66.2
+15.4,Moderate,Clear,2,14,Grocery,80.9
+11.89,High,Rain,11,17,Parcel,78.0
+10.31,Moderate,Clear,13,12,Grocery,57.5
+13.53,Moderate,Cloudy,15,9,Other,74.9
+5.09,Low,Clear,1,9,Parcel,38.3
+24.72,Low,Cloudy,1,11,Food,105.5
+20.55,Low,Rain,15,14,Parcel,100.8
+18.67,High,Rain,13,15,Other,103.8
+11.98,Moderate,Heavy Rain,9,13,Food,80.1
+4.25,Low,Cloudy,5,11,Grocery,41.3
+23.06,High,Rain,8,12,Food,110.0
+8.86,High,Cloudy,8,29,Grocery,84.5
+1.73,Moderate,Rain,13,9,Food,40.7
+8.89,Very High,Cloudy,8,11,Grocery,69.0
+19.96,Moderate,Rain,0,34,Food,118.0
+15.76,High,Clear,11,17,Grocery,84.8
+18.9,Low,Cloudy,12,6,Food,77.6
+19.94,High,Cloudy,4,19,Grocery,113.3
+5.69,Very High,Clear,1,9,Food,57.5
+23.13,High,Clear,2,19,Grocery,110.2
+11.23,Moderate,Heavy Rain,13,13,Food,71.1
+16.16,High,Clear,7,11,Food,82.3
+0.56,Moderate,Clear,8,24,Food,37.5
+24.84,High,Clear,15,17,Other,118.7
+7.38,High,Clear,0,20,Food,66.8
+2.02,Very High,Cloudy,3,17,Grocery,64.3
+11.73,Moderate,Rain,13,11,Food,67.7
+3.66,Low,Heavy Rain,8,18,Grocery,56.7
+4.23,Moderate,Cloudy,0,21,Food,55.7
+15.99,Low,Cloudy,11,15,Food,75.7
+10.13,Moderate,Clear,2,25,Food,75.2
+23.09,Moderate,Rain,12,19,Food,105.9
+8.32,High,Clear,12,15,Food,61.3
+18.29,Low,Clear,13,16,Food,82.9
+11.8,Low,Heavy Rain,7,15,Food,77.2
+16.67,Low,Rain,4,6,Other,81.3
+15.19,High,Clear,14,13,Food,75.2
+12.08,High,Cloudy,8,15,Parcel,73.2
+23.78,Low,Clear,10,12,Food,91.0
+8.9,Low,Clear,2,16,Food,56.3
+4.84,Moderate,Clear,9,14,Food,40.5
+17.11,Moderate,Clear,9,19,Food,79.5
+21.23,Moderate,Cloudy,4,18,Food,96.3
+1.49,Moderate,Clear,12,15,Parcel,26.2
+11.52,Very High,Cloudy,2,6,Grocery,67.2
+22.37,Moderate,Clear,11,25,Grocery,109.8
+18.87,High,Heavy Rain,15,13,Food,113.8
+24.8,Low,Cloudy,9,14,Food,107.1
+13.52,Very High,Rain,1,12,Grocery,94.0
+16.67,Very High,Clear,8,11,Food,90.3
+7.91,High,Cloudy,8,23,Food,62.7
+23.71,Moderate,Rain,8,22,Food,109.3
+9.48,Low,Clear,4,17,Food,51.6
+18.59,High,Clear,10,13,Grocery,92.7
+10.38,High,Clear,4,18,Food,71.4
+14.26,Moderate,Clear,8,14,Food,71.2
+18.13,Moderate,Clear,9,13,Parcel,86.9
+12.97,Moderate,Clear,10,16,Other,71.9
+22.72,High,Clear,12,11,Food,100.6
+10.77,High,Cloudy,14,16,Food,66.0
+16.35,High,Clear,12,15,Parcel,82.3
+8.89,High,Clear,12,18,Food,58.6
+10.5,Moderate,Cloudy,13,10,Food,59.1
+11.28,Moderate,Clear,3,18,Food,67.6
+3.58,Low,Clear,4,9,Food,22.6
+2.75,High,Clear,8,11,Other,43.3
+16.85,Moderate,Clear,7,11,Parcel,73.2
+16.56,Moderate,Clear,11,8,Other,83.0
+16.74,Moderate,Clear,0,20,Grocery,92.6
+0.98,Low,Clear,2,8,Grocery,29.8
+8.5,Moderate,Heavy Rain,11,10,Parcel,69.7
+5.35,Moderate,Rain,13,22,Grocery,57.8
+19.56,Low,Clear,4,11,Food,81.9
+21.59,High,Clear,4,13,Food,104.1
+6.54,Moderate,Clear,8,8,Food,40.7
+16.86,Moderate,Rain,7,19,Food,91.7
+3.67,Moderate,Rain,2,19,Food,49.1
+7.24,High,Clear,8,18,Food,61.7
+3.9,Moderate,Clear,13,17,Grocery,43.1
+7.45,High,Clear,11,14,Food,57.5
+17.03,Very High,Rain,13,11,Food,101.5
+22.8,High,Rain,10,9,Food,108.4
+5.46,Moderate,Clear,14,22,Food,52.3
+13.78,High,Cloudy,3,19,Other,94.3
+17.68,Moderate,Clear,0,10,Food,86.6
+23.85,Moderate,Cloudy,1,14,Food,113.9
+15.45,Moderate,Rain,15,12,Food,78.8
+6.75,Moderate,Clear,10,7,Parcel,43.6
+15.82,Low,Clear,3,15,Grocery,82.8
+8.35,Moderate,Cloudy,13,12,Food,49.9
+24.42,Low,Clear,4,8,Food,88.4
+10.29,Moderate,Rain,9,5,Grocery,61.9
+17.29,Moderate,Clear,3,5,Other,78.8
+1.07,Very High,Rain,1,12,Food,50.5
+10.3,Low,Clear,4,13,Food,56.9
+21.94,High,Clear,3,9,Food,105.7
+15.45,Moderate,Clear,8,18,Food,71.4
+11.38,Low,Clear,0,14,Grocery,71.4
+23.43,Moderate,Clear,3,17,Other,100.5
+21.42,Low,Cloudy,9,13,Other,91.8
+8.39,Low,Clear,6,9,Parcel,53.4
+13.84,Moderate,Clear,10,15,Food,68.6
+12.5,Moderate,Clear,10,6,Other,62.1
+15.99,Moderate,Clear,15,17,Food,81.6
+8.69,Low,Rain,13,8,Food,42.1
+6.48,Low,Heavy Rain,3,20,Grocery,69.4
+22.86,Low,Clear,11,12,Food,90.1
+23.13,Moderate,Rain,10,20,Parcel,121.2
+21.16,Moderate,Rain,9,7,Other,91.7
+24.47,Moderate,Heavy Rain,12,10,Parcel,113.3
+18.75,Moderate,Clear,2,16,Parcel,90.4
+19.23,Low,Clear,6,21,Food,84.5
+19.18,Very High,Clear,13,24,Food,115.0
+12.27,Low,Rain,14,14,Parcel,69.1
+11.68,Low,Cloudy,0,25,Grocery,79.0
+6.39,Low,Clear,7,12,Parcel,39.7
+16.3,Very High,Clear,4,21,Food,99.3
+7.59,Moderate,Cloudy,2,8,Food,48.6
+6.82,Moderate,Rain,0,17,Food,59.1
+14.86,Very High,Clear,8,3,Grocery,79.0
+10.54,Low,Cloudy,10,7,Parcel,50.2
+5.86,Very High,Clear,8,17,Other,64.1
+20.49,Low,Clear,5,6,Food,79.1
+21.58,High,Cloudy,12,17,Food,105.9
+4.61,Moderate,Rain,10,19,Food,50.1
+0.68,Moderate,Heavy Rain,14,11,Food,38.5
+8.74,Very High,Clear,5,8,Food,72.7
+20.04,Low,Clear,3,11,Grocery,96.6
+21.06,Very High,Clear,7,8,Food,96.1
+3.89,Moderate,Clear,8,13,Food,33.4
+19.47,High,Clear,7,15,Grocery,94.1
+3.33,Very High,Clear,13,12,Parcel,56.6
+10.06,Low,Clear,0,24,Food,67.6
+24.97,Very High,Clear,8,10,Food,115.4
+5.22,Moderate,Clear,6,22,Grocery,63.2
+4.27,High,Rain,3,8,Parcel,54.2
+10.86,Low,Clear,10,14,Parcel,60.5
+15.68,Moderate,Cloudy,12,21,Food,85.7
+23.36,High,Rain,8,21,Food,117.1
+24.53,Moderate,Cloudy,1,11,Parcel,114.3
+2.21,Low,Clear,1,17,Food,33.5
+3.88,Moderate,Clear,6,17,Food,47.4
+19.87,High,Cloudy,10,11,Other,96.2
+7.13,Low,Cloudy,5,18,Food,49.2
+22.18,High,Clear,4,25,Grocery,115.4
+16.75,Very High,Clear,13,17,Parcel,95.2
+3.24,Low,Cloudy,0,17,Food,41.3
+20.9,Low,Clear,1,18,Grocery,90.1
+4.82,High,Cloudy,2,5,Food,45.0
+10.88,Low,Clear,15,17,Parcel,58.7
+14.03,Moderate,Clear,7,8,Parcel,69.7
+12.77,High,Rain,2,10,Parcel,85.3
+17.31,Moderate,Clear,4,27,Food,92.8
+16.49,Moderate,Cloudy,15,12,Parcel,78.3
+24.81,High,Clear,11,10,Parcel,108.0
+24.99,Moderate,Clear,3,21,Grocery,124.4
+13.15,Low,Rain,3,8,Grocery,67.5
+2.83,Moderate,Clear,1,11,Food,34.9
+18.33,High,Clear,12,21,Parcel,95.3
+24.43,High,Rain,2,14,Food,114.8
+8.3,Moderate,Rain,4,5,Food,54.0
+11.8,Moderate,Cloudy,5,17,Parcel,73.4
+10.91,Low,Clear,9,12,Other,63.0
+1.76,Moderate,Clear,9,23,Other,49.6
+16.97,Low,Cloudy,12,10,Food,81.2
+9.16,Very High,Clear,4,20,Food,78.1
+19.79,Moderate,Clear,6,25,Food,98.3
+20.89,High,Rain,6,9,Food,95.6
+20.62,Low,Clear,0,13,Parcel,96.7
+10.71,Moderate,Clear,11,16,Grocery,65.7
+8.38,Moderate,Clear,8,9,Food,49.6
+18.85,Moderate,Clear,7,16,Food,81.9
+20.13,High,Cloudy,15,13,Food,97.8
+12.54,Very High,Rain,2,13,Parcel,94.7
+22.38,High,Clear,15,14,Grocery,106.9
+4.03,Low,Clear,10,14,Food,30.8
+22.04,High,Cloudy,3,15,Food,113.1
+2.85,Low,Clear,10,10,Food,34.0
+4.26,Very High,Cloudy,12,11,Food,48.8
+13.58,Moderate,Rain,5,13,Other,84.0
+2.15,Moderate,Cloudy,5,14,Grocery,29.2
+1.79,Low,Clear,13,11,Food,26.2
+0.51,Low,Heavy Rain,2,16,Parcel,39.1
+11.19,Moderate,Clear,0,3,Food,54.6
+19.48,Very High,Heavy Rain,10,10,Food,106.1
+1.35,High,Cloudy,14,12,Grocery,40.3
+16.48,Very High,Cloudy,8,9,Food,92.4
+20.67,Low,Rain,2,24,Food,99.6
+4.62,Moderate,Cloudy,8,14,Parcel,43.9
+4.1,Moderate,Clear,4,15,Parcel,43.7
+21.59,Moderate,Clear,13,11,Food,96.3
+20.67,Moderate,Cloudy,9,14,Grocery,97.8
+13.7,Moderate,Cloudy,5,7,Food,60.8
+20.57,Moderate,Clear,9,13,Grocery,90.9
+2.77,Low,Cloudy,10,8,Food,31.8
+10.16,Moderate,Cloudy,10,12,Grocery,64.4
+18.58,High,Clear,5,3,Food,77.9
+6.81,Low,Clear,9,7,Other,39.0
+18.93,Very High,Clear,0,23,Parcel,117.7
+12.85,Moderate,Clear,6,19,Food,69.7
+18.88,High,Clear,6,22,Parcel,96.7
+11.88,High,Clear,8,22,Food,75.1
+9.51,High,Clear,15,18,Grocery,76.0
+5.87,High,Clear,15,11,Food,46.7
+5.61,High,Cloudy,7,8,Food,46.0
+18.91,Moderate,Clear,10,21,Grocery,96.2
+3.41,Moderate,Heavy Rain,1,14,Food,65.4
+2.61,Low,Rain,7,29,Food,51.1
+4.82,Moderate,Cloudy,11,12,Food,45.3
+4.8,Low,Heavy Rain,10,26,Food,59.5
+20.67,Moderate,Rain,15,13,Food,95.0
+10.26,Low,Clear,7,22,Grocery,64.9
+24.76,Moderate,Rain,14,24,Grocery,120.7
+3.86,Low,Clear,15,8,Food,26.2
+16.51,Moderate,Cloudy,9,11,Food,79.7
+11.49,High,Cloudy,1,8,Grocery,71.4
+10.13,High,Clear,6,7,Grocery,62.4
+21.94,Moderate,Clear,12,18,Parcel,103.8
+24.4,Moderate,Heavy Rain,9,13,Food,111.3
+21.89,Moderate,Clear,14,14,Food,98.2
+5.21,Moderate,Clear,13,17,Grocery,49.4
+5.91,High,Clear,1,3,Food,45.7
+16.57,Low,Clear,13,22,Food,72.3
+7.58,Very High,Rain,5,12,Food,70.0
+18.5,Low,Rain,13,17,Parcel,92.8
+14.38,High,Clear,8,18,Food,88.6
+14.0,Moderate,Clear,7,22,Grocery,83.7
+20.8,Moderate,Clear,1,13,Grocery,104.0
+17.91,High,Clear,1,3,Food,78.7
+1.15,Low,Rain,9,14,Parcel,34.1
+1.71,High,Cloudy,9,15,Grocery,50.2
+15.24,Moderate,Clear,8,8,Food,63.7
+12.41,Low,Cloudy,2,15,Parcel,74.3
+6.87,Low,Clear,8,12,Food,43.2
+10.76,High,Cloudy,0,6,Food,68.5
+19.07,Moderate,Cloudy,2,18,Grocery,98.8
+20.75,High,Cloudy,7,11,Grocery,96.4
+14.25,High,Cloudy,9,12,Food,84.3
+9.94,High,Heavy Rain,10,11,Other,82.3
+7.13,Moderate,Clear,15,21,Grocery,60.5
+13.29,High,Clear,13,14,Grocery,76.5
+8.21,Very High,Clear,6,14,Food,67.6
+14.32,Low,Cloudy,12,11,Food,65.1
+17.08,Moderate,Cloudy,1,17,Food,91.5
+2.12,Moderate,Cloudy,13,22,Grocery,49.5
+0.53,Moderate,Cloudy,6,18,Food,31.5
+5.7,High,Clear,12,18,Parcel,51.8
+22.42,Moderate,Cloudy,15,18,Food,101.8
+16.33,Moderate,Cloudy,11,6,Grocery,67.6
+4.71,Moderate,Clear,14,9,Parcel,37.3
+22.31,Low,Clear,0,13,Parcel,97.1
+12.01,Moderate,Clear,2,10,Parcel,69.2
+12.16,High,Clear,10,8,Parcel,75.6
+23.42,Moderate,Rain,8,3,Food,86.8
+1.96,Moderate,Rain,1,6,Grocery,50.2
+5.77,High,Cloudy,11,12,Other,55.0
+14.85,Low,Clear,0,14,Grocery,79.4
+5.29,Moderate,Cloudy,15,9,Food,33.7
+17.15,Moderate,Rain,2,14,Other,100.2
+5.75,Very High,Clear,7,11,Food,56.0
+2.93,High,Rain,13,21,Food,55.8
+5.57,Moderate,Clear,8,13,Food,34.5
+10.86,Low,Clear,11,18,Food,59.0
+4.82,Low,Clear,11,15,Food,40.3
+3.8,High,Clear,15,6,Food,35.8
+21.58,Moderate,Rain,7,13,Parcel,106.6
+8.35,Very High,Clear,15,7,Food,64.4
+9.34,High,Clear,8,13,Food,58.4
+1.85,Moderate,Clear,14,10,Parcel,37.1
+9.26,High,Clear,11,16,Parcel,66.9
+6.99,Very High,Clear,2,6,Food,59.9
+15.46,Moderate,Clear,10,14,Food,74.3
+5.53,High,Cloudy,14,17,Grocery,59.4
+22.26,Very High,Clear,2,19,Parcel,112.5
+23.28,Moderate,Rain,13,9,Grocery,103.4
+2.95,High,Clear,1,14,Food,42.7
+3.13,Low,Rain,13,15,Grocery,49.2
+3.33,High,Rain,12,23,Grocery,69.7
+15.68,High,Clear,2,5,Grocery,85.0
+3.49,Moderate,Clear,11,9,Parcel,33.9
+21.38,Moderate,Heavy Rain,1,31,Parcel,128.2
+18.98,Moderate,Clear,9,12,Grocery,84.2
+20.59,Low,Cloudy,14,3,Grocery,87.6
+13.39,Low,Clear,3,11,Grocery,64.7
+24.92,Moderate,Clear,2,3,Food,87.8
+1.58,Moderate,Cloudy,6,15,Food,39.0
+10.33,Moderate,Rain,5,19,Grocery,82.0
+8.44,Moderate,Clear,0,9,Grocery,64.8
+23.74,High,Rain,7,11,Food,114.7
+14.63,Moderate,Cloudy,4,20,Food,87.2
+20.25,Moderate,Clear,1,3,Grocery,88.0
+4.67,Moderate,Clear,4,6,Grocery,31.2
+24.48,Low,Clear,0,13,Food,103.0
+12.72,High,Clear,14,9,Food,69.9
+12.59,Moderate,Cloudy,15,12,Food,64.5
+24.29,Low,Clear,5,6,Other,94.6
+9.83,Very High,Clear,14,15,Parcel,71.6
+10.24,High,Cloudy,7,13,Grocery,65.7
+14.83,High,Cloudy,14,17,Food,91.3
+3.64,High,Cloudy,2,15,Grocery,63.8
+8.37,Very High,Cloudy,4,15,Food,72.9
+5.23,Moderate,Clear,11,5,Other,39.3
+3.03,Moderate,Cloudy,3,17,Food,40.5
+21.72,Moderate,Clear,13,12,Food,93.9
+14.94,Moderate,Clear,6,13,Grocery,83.4
+9.29,Moderate,Clear,6,20,Food,55.7
+10.51,Low,Cloudy,7,10,Grocery,57.4
+11.07,High,Cloudy,12,22,Parcel,82.5
+16.01,High,Clear,0,23,Food,100.7
+23.21,High,Rain,12,19,Food,123.5
+23.35,Moderate,Rain,12,8,Grocery,111.5
+10.09,Low,Clear,13,3,Parcel,43.3
+8.57,Moderate,Cloudy,15,20,Food,63.3
+11.55,Moderate,Clear,12,15,Food,63.1
+14.41,Very High,Heavy Rain,8,10,Grocery,97.1
+11.81,High,Clear,7,21,Food,77.7
+16.64,Very High,Clear,6,9,Parcel,94.3
+14.08,High,Clear,13,11,Grocery,78.5
+8.36,Very High,Clear,6,17,Food,67.4
+8.97,Moderate,Cloudy,9,7,Parcel,50.0
+9.78,Low,Cloudy,1,13,Food,56.5
+2.82,Low,Clear,5,21,Food,35.4
+4.57,Moderate,Cloudy,4,15,Grocery,51.4
+18.22,Moderate,Rain,6,21,Other,104.2
+10.03,Low,Rain,8,21,Grocery,74.0
+5.76,Very High,Cloudy,11,14,Food,57.4
+14.29,Low,Clear,6,3,Grocery,57.0
+19.01,Very High,Clear,2,7,Food,104.1
+6.81,High,Rain,8,19,Food,65.5
+20.76,High,Cloudy,0,5,Food,97.5
+23.22,High,Cloudy,13,12,Food,104.3
+15.14,Moderate,Rain,12,16,Food,86.5
+16.89,High,Clear,3,23,Other,108.0
+1.79,Low,Cloudy,4,11,Food,33.0
+23.67,Very High,Clear,0,10,Parcel,120.5
+10.12,Moderate,Clear,5,14,Grocery,59.9
+23.14,Moderate,Clear,0,16,Food,114.4
+14.68,High,Clear,14,13,Food,80.9
+0.61,High,Heavy Rain,2,20,Food,58.1
+1.44,Moderate,Clear,10,9,Food,31.2
+17.17,High,Rain,9,15,Grocery,96.1
+14.29,Low,Rain,3,17,Other,89.9
+1.15,High,Cloudy,12,12,Parcel,45.5
+18.71,Moderate,Rain,1,19,Food,98.3
+21.38,Moderate,Clear,14,15,Food,95.6
+12.66,Low,Clear,11,19,Food,68.4
+11.91,Moderate,Clear,10,15,Other,79.4
+0.63,Moderate,Clear,14,16,Food,27.0
+19.77,Moderate,Rain,6,10,Food,97.0
+8.6,Low,Clear,4,10,Grocery,50.7
+22.03,Low,Clear,2,21,Grocery,100.3
+9.64,Moderate,Clear,14,18,Food,59.4
+14.34,Low,Cloudy,6,8,Grocery,66.5
+7.12,High,Cloudy,13,15,Food,53.8
+4.43,Very High,Clear,5,3,Food,47.0
+19.49,Moderate,Rain,15,11,Food,94.3
+12.67,Very High,Cloudy,13,20,Food,89.2
+13.64,Low,Rain,4,13,Other,75.1
+24.15,Low,Clear,7,15,Food,96.3
+24.11,High,Cloudy,12,3,Parcel,101.7
+21.46,High,Clear,3,12,Food,102.4
+5.1,High,Clear,0,16,Grocery,66.2
+15.06,Low,Cloudy,4,17,Other,81.8
+22.01,High,Cloudy,9,20,Food,103.6
+9.67,Moderate,Clear,2,13,Other,62.7
+2.98,Moderate,Rain,5,13,Grocery,47.9
+20.37,Low,Clear,14,6,Grocery,84.6
+12.3,Very High,Cloudy,1,13,Food,91.3
+14.33,Low,Heavy Rain,0,6,Grocery,89.5
+24.56,High,Cloudy,6,3,Food,101.7
+15.38,High,Rain,0,7,Other,95.7
+10.91,High,Cloudy,0,23,Parcel,82.0
+9.56,High,Rain,2,12,Food,74.4
+10.73,High,Cloudy,1,15,Other,76.0
+3.4,Low,Cloudy,12,11,Parcel,33.3
+19.97,Low,Clear,1,3,Grocery,94.0
+21.02,Moderate,Rain,8,20,Food,105.4
+7.47,Moderate,Clear,11,3,Food,34.7
+7.94,Low,Heavy Rain,10,11,Food,58.2
+21.92,Low,Clear,10,14,Food,86.9
+1.09,Moderate,Clear,5,15,Other,33.5
+13.25,Low,Rain,14,10,Food,73.5
+11.86,Low,Clear,1,3,Grocery,61.0
+17.41,Very High,Clear,1,9,Grocery,101.4
+4.5,Moderate,Cloudy,13,10,Grocery,40.4
+16.87,Very High,Clear,1,9,Food,93.1
+9.73,Very High,Clear,3,20,Grocery,91.3
+15.66,Low,Cloudy,2,7,Grocery,74.8
+1.48,High,Clear,0,16,Grocery,38.3
+11.81,Moderate,Clear,1,15,Food,79.3
+13.3,High,Clear,9,20,Grocery,85.0
+5.75,Low,Clear,10,13,Food,39.2
+3.92,Low,Clear,1,19,Grocery,52.5
+5.12,Low,Clear,15,13,Food,37.7
+8.93,Moderate,Cloudy,1,17,Food,67.7
+2.87,Very High,Cloudy,10,5,Parcel,44.2
+23.71,High,Clear,12,3,Food,90.6
+10.42,High,Clear,8,16,Other,73.4
+20.32,Very High,Rain,7,17,Parcel,122.7
+24.37,High,Cloudy,1,17,Food,117.0
+2.48,Low,Clear,3,11,Food,26.8
+16.47,High,Clear,13,23,Food,97.9
+21.85,Moderate,Clear,5,11,Parcel,93.9
+16.04,Low,Rain,0,17,Grocery,90.1
+11.01,Moderate,Rain,11,18,Food,69.6
+11.06,Very High,Rain,10,24,Food,92.0
+1.38,Moderate,Clear,1,12,Food,28.0
+13.6,Moderate,Clear,0,10,Grocery,73.0
+24.84,Low,Clear,1,5,Food,95.9
+23.99,Low,Clear,0,23,Food,112.3
+1.49,Low,Clear,9,17,Parcel,36.3
+17.79,High,Cloudy,2,17,Food,105.5
+7.89,High,Clear,9,33,Food,82.5
+22.62,Low,Rain,2,16,Grocery,112.8
+1.61,Moderate,Clear,15,6,Other,27.4
+23.43,Low,Clear,11,13,Food,90.1
+21.02,Low,Rain,5,8,Parcel,92.2
+3.38,Moderate,Cloudy,6,12,Food,39.8
+1.97,High,Clear,1,12,Parcel,49.4
+20.95,High,Cloudy,0,10,Food,105.4
+4.32,Moderate,Clear,8,6,Grocery,34.9
+13.61,Moderate,Clear,0,24,Food,88.3
+22.94,Low,Clear,10,16,Other,104.2
+14.4,Low,Clear,6,13,Other,74.2
+10.23,Very High,Cloudy,2,19,Food,84.6
+11.4,High,Clear,8,17,Food,68.0
+2.05,Very High,Cloudy,8,16,Grocery,51.9
+24.23,Very High,Rain,11,18,Food,124.4
+8.11,High,Clear,3,15,Grocery,68.2
+5.14,Very High,Clear,8,18,Grocery,67.0
+7.51,Moderate,Clear,13,19,Food,48.6
+24.13,Low,Rain,4,15,Food,104.8
+2.81,Low,Cloudy,13,13,Parcel,34.7
+21.75,Low,Cloudy,11,23,Food,95.8
+17.84,Low,Clear,6,11,Grocery,80.0
+20.84,Moderate,Clear,14,16,Food,91.4
+24.41,High,Cloudy,15,16,Food,109.8
+21.13,High,Clear,3,10,Food,98.7
+23.61,Moderate,Cloudy,15,9,Food,97.8
+3.61,Low,Clear,0,12,Grocery,37.8
+20.0,High,Clear,2,11,Food,96.0
+13.87,Moderate,Cloudy,0,5,Grocery,74.9
+13.82,Low,Cloudy,5,10,Grocery,64.8
+22.52,Moderate,Cloudy,14,16,Food,93.2
+24.31,Moderate,Clear,9,22,Food,103.2
+17.77,Moderate,Rain,9,17,Grocery,93.4
+12.33,High,Rain,1,3,Grocery,71.9
+11.68,High,Rain,8,18,Grocery,82.8
+9.97,High,Cloudy,6,11,Food,70.6
+9.36,Low,Cloudy,7,17,Parcel,52.5
+10.09,High,Cloudy,4,14,Food,68.1
+2.7,High,Clear,3,13,Grocery,56.9
+2.4,Low,Clear,15,13,Food,29.1
+19.61,High,Cloudy,8,14,Grocery,98.3
+11.43,Moderate,Clear,6,22,Food,69.8
+23.3,Moderate,Clear,1,14,Grocery,109.9
+15.5,Low,Rain,12,21,Food,89.8
+1.36,Moderate,Clear,7,20,Grocery,38.1
+4.36,Low,Cloudy,6,18,Food,38.5
+5.54,Low,Cloudy,10,3,Grocery,27.7
+24.41,Low,Clear,2,21,Food,109.1
+5.86,Very High,Rain,8,11,Food,57.5
+13.14,Moderate,Clear,13,18,Grocery,72.9
+23.44,Moderate,Rain,7,8,Food,96.0
+24.44,Moderate,Rain,0,7,Food,113.1
+6.29,High,Clear,3,26,Parcel,69.5
+1.7,Moderate,Clear,0,8,Parcel,36.9
+4.26,Very High,Clear,8,21,Parcel,57.8
+2.05,Moderate,Clear,5,15,Food,35.9
+5.28,Low,Clear,2,11,Food,34.6
+14.43,Moderate,Heavy Rain,10,14,Parcel,86.0
+22.85,Moderate,Clear,2,6,Food,102.7
+13.66,High,Rain,5,14,Grocery,92.1
+15.84,High,Clear,15,8,Food,75.6
+5.45,Moderate,Heavy Rain,1,12,Parcel,76.7
+20.11,Very High,Clear,3,20,Grocery,113.7
+15.64,Moderate,Clear,5,16,Food,83.1
+21.67,Moderate,Cloudy,8,5,Food,80.0
+23.75,Moderate,Clear,3,19,Food,107.6
+9.02,Low,Rain,15,14,Food,50.6
+2.72,High,Clear,0,11,Grocery,50.5
+6.04,Low,Cloudy,15,18,Food,45.9
+11.23,Moderate,Cloudy,8,13,Food,60.6
+23.67,Moderate,Cloudy,0,7,Food,105.7
+9.77,Low,Clear,1,25,Grocery,70.0
+19.38,Low,Clear,1,14,Food,88.4
+13.74,High,Clear,4,14,Food,81.9
+4.98,Low,Clear,5,12,Other,35.5
+8.36,Moderate,Clear,10,21,Food,55.9
+16.5,Moderate,Rain,4,11,Food,84.4
+16.98,Moderate,Cloudy,11,5,Other,79.2
+11.15,Low,Cloudy,4,10,Food,62.2
+6.1,High,Clear,4,22,Other,67.0
+18.19,Very High,Clear,4,19,Grocery,108.1
+4.64,Low,Cloudy,5,12,Grocery,37.9
+23.45,Very High,Clear,13,22,Food,123.0
+5.1,Moderate,Clear,3,18,Food,48.6
+3.13,High,Clear,4,12,Food,42.6
+12.69,High,Cloudy,15,13,Food,73.0
+13.23,High,Heavy Rain,10,16,Food,92.2
+12.95,High,Clear,3,9,Grocery,73.9
+11.2,Moderate,Cloudy,13,14,Grocery,63.6
+24.87,Moderate,Clear,2,16,Food,111.8
+12.41,Moderate,Clear,2,4,Grocery,51.4
+12.21,Low,Cloudy,7,13,Other,62.4
+10.83,High,Clear,11,12,Grocery,64.0
+2.14,Low,Cloudy,3,20,Parcel,47.4
+15.03,Moderate,Clear,12,3,Grocery,63.8
+6.09,Low,Clear,2,12,Food,40.6
+16.12,Low,Heavy Rain,12,11,Food,81.8
+1.75,High,Clear,1,20,Other,53.0
+24.54,High,Rain,7,14,Grocery,118.5
+11.99,Moderate,Clear,10,25,Parcel,77.6
+22.47,Low,Heavy Rain,4,18,Other,115.0
+12.15,Moderate,Clear,9,12,Food,59.9
+1.98,Moderate,Clear,11,15,Food,29.1
+20.64,High,Rain,10,12,Grocery,101.4
+16.38,Moderate,Clear,6,19,Food,83.0
+19.65,Moderate,Clear,12,6,Grocery,84.1
+10.99,Moderate,Heavy Rain,11,9,Parcel,66.4
+16.13,Very High,Cloudy,5,17,Grocery,105.0
+21.48,High,Cloudy,11,21,Food,111.6
+15.96,Moderate,Cloudy,14,3,Grocery,74.4
+9.02,Moderate,Rain,13,22,Food,70.2
+16.73,Low,Rain,11,13,Parcel,84.4
+16.96,Very High,Cloudy,12,3,Food,93.3
+24.03,Moderate,Clear,12,3,Parcel,91.3
+9.59,Moderate,Clear,4,5,Food,45.5
+10.91,Very High,Cloudy,11,14,Food,70.7
+20.4,High,Rain,3,14,Food,114.3
+12.89,Low,Clear,5,18,Food,74.0
+18.55,Low,Clear,14,11,Food,71.8
+11.76,Low,Clear,4,7,Parcel,53.5
+5.78,Moderate,Cloudy,13,12,Parcel,45.6
+18.76,Low,Rain,6,14,Food,92.1
+3.71,Very High,Clear,3,15,Grocery,56.4
+5.37,Very High,Cloudy,1,9,Parcel,55.8
+15.86,Moderate,Rain,8,19,Parcel,98.8
+18.81,Moderate,Heavy Rain,7,10,Food,95.6
+22.42,Moderate,Clear,8,9,Food,92.3
+7.18,Low,Rain,0,11,Other,58.4
+3.21,High,Cloudy,4,20,Food,55.8
+23.92,Low,Rain,0,13,Food,102.1
+4.28,Low,Clear,4,10,Parcel,32.9
+5.34,Moderate,Cloudy,14,20,Food,51.0
+7.64,Low,Cloudy,2,27,Parcel,58.6
+13.47,Moderate,Clear,11,15,Food,67.5
+22.13,High,Clear,0,21,Grocery,118.1
+19.13,High,Cloudy,8,20,Other,104.1
+17.85,Moderate,Cloudy,14,10,Other,82.1
+4.79,High,Clear,5,14,Parcel,48.9
+9.26,Moderate,Clear,3,6,Parcel,46.4
+12.22,High,Clear,9,13,Food,70.5
+4.11,Moderate,Rain,4,10,Other,48.5
+7.2,Moderate,Heavy Rain,14,12,Parcel,57.8
+8.05,Very High,Clear,13,10,Food,62.2
+3.62,Moderate,Clear,10,12,Food,34.0
+13.98,Low,Clear,10,17,Food,65.5
+17.77,Moderate,Clear,9,13,Grocery,75.5
+2.21,Moderate,Rain,11,3,Grocery,35.6
+12.29,Moderate,Cloudy,7,10,Food,57.2
+19.66,Moderate,Clear,15,5,Food,78.2
+18.83,High,Clear,5,15,Grocery,95.1
+20.47,Moderate,Clear,0,17,Food,97.9
+11.48,Moderate,Rain,11,16,Other,80.2
+20.6,Moderate,Cloudy,10,9,Food,89.0
+6.4,High,Cloudy,15,15,Food,60.4
+9.34,Low,Clear,6,11,Food,49.3
+4.82,Low,Rain,6,7,Parcel,41.5
+11.95,Moderate,Clear,8,18,Parcel,62.9
+10.11,High,Rain,6,19,Food,76.1
+6.4,High,Rain,12,20,Food,64.9
+18.92,Moderate,Cloudy,6,10,Food,88.5
+8.19,High,Rain,12,21,Food,70.4
+7.18,Moderate,Clear,6,11,Grocery,51.3
+3.71,Low,Cloudy,3,18,Food,43.4
+11.25,Low,Clear,15,11,Food,57.5
+7.92,Low,Clear,8,13,Food,44.0
+9.55,Moderate,Clear,11,3,Food,47.9
+6.28,Moderate,Clear,9,12,Food,36.6
+19.2,Moderate,Clear,5,15,Food,82.1
+23.29,Moderate,Clear,15,12,Food,87.1
+12.7,Moderate,Cloudy,5,25,Food,83.5
+16.25,High,Clear,15,7,Food,79.1
+21.75,High,Clear,6,11,Other,107.0
+24.97,Moderate,Heavy Rain,0,9,Food,116.7
+15.53,Moderate,Heavy Rain,0,11,Food,89.9
+22.3,Moderate,Clear,15,20,Food,100.6
+22.76,Moderate,Clear,8,23,Parcel,114.3
+19.89,Moderate,Cloudy,6,10,Parcel,96.4
+11.79,Moderate,Rain,12,10,Parcel,71.7
+2.49,High,Clear,9,7,Grocery,39.0
+0.89,High,Rain,10,22,Parcel,59.1
+12.19,Low,Clear,10,21,Food,64.8
+12.61,Moderate,Clear,3,13,Parcel,69.5
+10.48,High,Cloudy,1,6,Parcel,68.0
+14.42,Low,Cloudy,11,6,Food,55.8
+14.03,High,Rain,0,15,Food,90.8
+21.0,Low,Clear,11,17,Food,84.6
+3.16,Moderate,Clear,2,3,Food,33.9
+6.02,Moderate,Clear,4,12,Parcel,50.8
+19.93,Low,Clear,11,24,Food,98.5
+21.27,Very High,Clear,9,13,Grocery,103.4
+24.87,Moderate,Cloudy,12,23,Other,126.7
+21.89,Very High,Cloudy,9,18,Food,108.6
+22.3,Moderate,Cloudy,0,7,Food,92.3
+8.2,High,Clear,13,12,Grocery,57.9
+10.34,Very High,Clear,3,13,Parcel,84.3
+7.07,Moderate,Cloudy,2,8,Food,49.8
+15.35,Low,Clear,14,8,Food,61.6
+23.5,High,Rain,3,23,Grocery,126.7
+8.94,Moderate,Clear,8,8,Other,47.2
+14.15,Very High,Cloudy,7,20,Food,97.4
+7.76,Moderate,Rain,12,11,Food,57.3
+4.66,Moderate,Cloudy,0,14,Other,59.9
+5.28,Low,Cloudy,1,17,Food,50.0
+1.92,High,Cloudy,6,10,Food,27.4
+23.76,Very High,Clear,7,17,Grocery,116.7
+10.37,Low,Cloudy,12,3,Food,46.0
+20.94,High,Rain,9,17,Food,106.4
+17.19,Very High,Heavy Rain,2,3,Grocery,104.1
+5.2,Low,Clear,15,13,Grocery,35.7
+4.8,Low,Clear,7,19,Food,44.7
+20.39,High,Rain,15,18,Food,109.0
+6.99,High,Cloudy,15,6,Grocery,54.7
+22.88,Low,Clear,0,7,Grocery,93.4
+3.93,High,Clear,8,10,Parcel,44.9
+17.1,Moderate,Clear,6,15,Parcel,78.7
+20.45,Very High,Clear,7,3,Grocery,96.9
+6.26,High,Clear,4,14,Parcel,48.3
+7.27,High,Clear,8,16,Parcel,54.3
+24.13,Moderate,Clear,7,12,Food,97.5
+6.98,Moderate,Rain,2,17,Other,77.1
+11.03,Moderate,Clear,4,15,Parcel,60.0
+11.1,Low,Clear,2,11,Food,52.4
+6.7,High,Clear,13,3,Food,43.6
+19.51,Low,Clear,10,15,Grocery,93.6
+19.41,Moderate,Heavy Rain,6,8,Food,96.0
+9.77,Low,Rain,6,11,Grocery,63.1
+20.96,Moderate,Clear,1,17,Food,98.6
+5.72,Moderate,Clear,4,23,Food,53.7
+0.61,High,Clear,14,14,Food,35.2
+14.49,High,Clear,0,17,Parcel,88.3
+24.85,Low,Clear,2,5,Food,96.9
+1.45,High,Clear,13,15,Grocery,36.1
+5.6,High,Clear,8,14,Food,53.9
+13.21,Moderate,Cloudy,0,21,Food,83.1
+20.34,High,Clear,7,11,Food,92.2
+2.68,Moderate,Clear,11,13,Food,26.7
+10.18,Low,Cloudy,5,20,Grocery,62.6
+18.8,Moderate,Clear,6,13,Grocery,93.1
+9.6,Low,Clear,10,7,Food,42.9
+5.13,High,Clear,9,29,Food,65.0
+5.29,Very High,Clear,14,8,Grocery,51.9
+10.55,High,Clear,3,14,Grocery,73.6
+12.25,Moderate,Rain,4,16,Food,70.5
+21.61,Moderate,Rain,2,16,Parcel,110.4
+16.24,Very High,Clear,10,13,Food,91.8
+17.41,Moderate,Clear,8,13,Food,80.3
+24.58,Low,Cloudy,5,13,Grocery,100.6
+10.59,Moderate,Cloudy,11,7,Grocery,56.5
+10.38,Moderate,Clear,6,27,Parcel,77.3
+23.12,Moderate,Clear,3,13,Food,99.8
+6.52,Low,Clear,8,18,Food,44.1
+18.38,Moderate,Cloudy,6,12,Grocery,95.6
+18.99,Moderate,Clear,6,12,Food,80.1
+2.9,Low,Clear,7,11,Food,31.3
+11.97,Low,Clear,14,5,Grocery,48.5
+5.41,Moderate,Clear,3,13,Food,48.4
+5.04,High,Clear,4,12,Food,52.5
+11.86,Moderate,Cloudy,9,21,Food,69.7
+7.59,High,Cloudy,0,7,Parcel,56.7
+20.0,High,Clear,2,11,Food,89.1
+22.74,Moderate,Clear,9,9,Food,89.0
+20.17,High,Rain,8,23,Food,113.6
+7.02,High,Clear,10,9,Food,45.5
+7.22,Moderate,Clear,1,17,Food,57.8
+6.74,Low,Clear,13,20,Grocery,46.0
+3.81,Low,Rain,7,13,Food,37.9
+23.62,Very High,Rain,2,6,Food,113.6
+10.35,High,Rain,4,6,Food,66.8
+6.0,Very High,Cloudy,3,19,Food,68.6
+21.24,Very High,Clear,7,6,Food,94.1
+10.28,Low,Clear,7,16,Grocery,56.2
+1.36,High,Clear,6,15,Grocery,39.5
+4.47,Moderate,Cloudy,7,16,Grocery,42.6
+16.16,High,Cloudy,14,17,Food,92.4
+19.68,Low,Clear,15,8,Parcel,77.6
+5.67,Moderate,Rain,7,8,Grocery,39.8
+22.98,High,Clear,15,18,Food,105.7
+21.35,High,Clear,13,10,Food,98.8
+21.29,Moderate,Clear,13,3,Parcel,81.0
+6.08,Moderate,Rain,3,18,Food,65.8
+1.74,Moderate,Rain,7,8,Food,29.0
+21.75,Very High,Cloudy,5,17,Grocery,121.4
+7.99,Moderate,Heavy Rain,1,22,Food,82.9
+15.66,Moderate,Rain,1,14,Other,94.3
+19.12,Moderate,Rain,9,20,Food,92.8
+3.64,Moderate,Rain,6,15,Food,42.5
+19.63,Moderate,Clear,13,24,Food,101.5
+23.49,Moderate,Rain,10,8,Food,96.6
+18.35,High,Cloudy,1,14,Parcel,104.8
+11.31,Very High,Cloudy,13,18,Parcel,83.3
+21.98,Very High,Clear,7,13,Parcel,111.7
+13.42,Moderate,Rain,9,21,Food,76.1
+18.75,Moderate,Heavy Rain,15,11,Food,92.7
+20.6,High,Clear,10,26,Food,105.4
+18.86,High,Heavy Rain,0,27,Food,126.4
+7.55,Moderate,Clear,2,16,Parcel,59.8
+3.39,High,Clear,6,17,Food,49.4
+6.34,High,Clear,0,21,Food,64.7
+12.82,High,Rain,2,7,Food,74.0
+12.88,High,Cloudy,12,6,Parcel,70.7
+14.77,Low,Clear,2,22,Food,75.7
+10.18,Moderate,Cloudy,2,16,Grocery,74.9
+19.78,Moderate,Clear,8,13,Grocery,89.9
+22.87,Low,Clear,1,14,Parcel,99.6
+6.54,High,Rain,4,3,Food,54.1
+18.54,Moderate,Cloudy,15,13,Food,84.2
+17.11,Low,Rain,10,9,Food,69.4
+13.32,High,Cloudy,15,20,Parcel,81.0
+5.12,High,Heavy Rain,5,20,Other,80.1
+19.98,High,Clear,9,17,Grocery,102.3
+24.04,Moderate,Clear,3,16,Food,99.8
+18.18,High,Clear,6,5,Food,82.8
+22.99,Moderate,Cloudy,2,18,Grocery,110.0
+24.61,Moderate,Cloudy,13,18,Food,104.8
+9.13,Low,Cloudy,2,21,Grocery,62.7
+16.14,High,Clear,3,27,Parcel,107.0
+12.11,High,Clear,7,4,Food,52.7
+24.67,Moderate,Cloudy,6,12,Food,100.1
+2.8,Moderate,Heavy Rain,5,10,Food,47.2
+10.6,High,Clear,5,15,Food,75.2
+21.95,High,Clear,4,14,Grocery,110.3
+7.46,Moderate,Clear,14,13,Food,44.7
+19.8,Very High,Clear,9,20,Food,114.5
+9.88,High,Clear,14,7,Food,51.2
+24.51,Very High,Clear,15,8,Food,112.0
+22.15,Very High,Cloudy,10,8,Grocery,111.6
+7.88,Very High,Clear,13,12,Grocery,63.9
+19.37,High,Clear,1,7,Food,94.8
+8.75,Moderate,Clear,15,14,Food,51.1
+15.36,Low,Rain,7,13,Food,77.4
+16.63,Moderate,Clear,11,9,Food,65.2
+20.83,High,Clear,3,19,Food,107.9
+1.1,Moderate,Clear,1,14,Parcel,36.8
+5.89,High,Cloudy,14,20,Food,63.9
+17.94,Low,Rain,7,13,Food,82.4
+14.31,Moderate,Clear,2,14,Food,80.4
+12.64,Moderate,Clear,10,11,Parcel,67.2
+1.85,Moderate,Clear,0,14,Food,38.2
+9.03,Low,Cloudy,7,18,Parcel,61.1
+21.69,Low,Rain,11,12,Food,96.4
+1.26,High,Clear,11,17,Parcel,44.8
+10.21,Moderate,Clear,7,9,Grocery,47.5
+23.66,Low,Rain,5,19,Food,104.4
+1.75,Low,Rain,13,11,Food,36.0
+18.87,Moderate,Clear,2,19,Food,89.5
+6.81,Low,Clear,1,14,Parcel,54.6
+21.73,High,Clear,2,23,Parcel,120.2
+18.78,High,Rain,12,7,Food,88.3
+22.2,Moderate,Cloudy,7,5,Food,79.8
+5.79,Moderate,Cloudy,0,10,Food,46.7
+13.52,Low,Rain,2,6,Food,75.2
+19.59,Moderate,Clear,0,6,Grocery,86.3
+6.52,High,Clear,13,18,Food,54.0
+6.15,Moderate,Clear,7,14,Food,41.1
+1.17,High,Rain,1,11,Parcel,54.5
+23.98,Moderate,Cloudy,3,12,Grocery,107.4
+17.9,Moderate,Clear,9,10,Parcel,78.0
+16.07,Moderate,Clear,9,24,Food,91.5
+18.73,Moderate,Cloudy,13,10,Parcel,87.4
+13.52,Very High,Rain,0,6,Grocery,89.2
+12.17,Low,Cloudy,1,19,Food,66.8
+11.51,High,Clear,0,13,Food,79.3
+16.19,High,Rain,6,26,Parcel,106.3
+5.44,Moderate,Rain,11,11,Food,40.7
+22.26,Moderate,Cloudy,10,19,Parcel,97.9
+20.39,Moderate,Cloudy,3,20,Grocery,100.7
+9.06,Moderate,Rain,10,11,Parcel,56.1
+14.68,High,Rain,10,10,Grocery,77.3
+3.96,Moderate,Cloudy,3,18,Parcel,46.9
+24.32,Very High,Clear,11,17,Food,115.7
+22.62,High,Clear,6,6,Food,94.3
+23.09,Moderate,Rain,0,7,Grocery,115.4
+8.64,High,Cloudy,6,3,Food,50.7
+4.64,Moderate,Clear,12,18,Grocery,47.7
+5.69,Very High,Clear,11,12,Grocery,62.7
+2.71,Low,Rain,4,13,Food,37.5
+3.44,Very High,Rain,12,4,Parcel,53.3
+2.25,High,Heavy Rain,6,7,Food,49.1
+24.75,High,Clear,7,11,Parcel,110.2
+2.31,Moderate,Rain,1,10,Food,53.2
+3.75,High,Rain,15,15,Grocery,60.3
+20.77,Moderate,Clear,13,18,Parcel,93.1
+14.72,High,Clear,3,28,Food,98.1
+19.47,Low,Heavy Rain,8,14,Food,92.2
+15.96,Moderate,Clear,12,21,Food,84.3
+22.11,Moderate,Cloudy,8,9,Grocery,90.0
+16.14,Moderate,Cloudy,3,4,Food,67.6
+13.29,Moderate,Cloudy,15,12,Food,68.6
+17.96,High,Clear,4,4,Parcel,88.7
+11.46,Moderate,Cloudy,5,14,Food,67.5
+8.98,High,Clear,5,9,Food,61.3
+11.96,Low,Rain,14,3,Grocery,59.6
+4.66,High,Clear,8,24,Food,58.1
+20.02,High,Cloudy,11,11,Food,92.0
+6.89,Moderate,Rain,14,4,Other,52.6
+4.26,High,Clear,14,19,Grocery,59.3
+6.54,Very High,Clear,13,10,Food,57.0
+21.13,High,Rain,14,21,Parcel,115.0
+8.59,Moderate,Clear,15,10,Food,55.0
+17.31,Moderate,Clear,15,11,Food,76.6
+21.48,High,Clear,10,16,Grocery,105.9
+2.4,Moderate,Heavy Rain,2,18,Food,58.4
+19.24,High,Cloudy,1,19,Food,105.3
+8.04,Moderate,Clear,12,13,Parcel,49.6
+5.81,High,Heavy Rain,5,17,Food,71.5
+17.38,Low,Clear,12,18,Food,78.7
+22.79,Low,Clear,14,15,Food,100.0
+7.73,Very High,Clear,10,13,Parcel,70.1
+14.44,High,Clear,12,5,Grocery,70.4
+7.6,High,Clear,4,18,Parcel,69.5
+14.08,Very High,Cloudy,6,14,Food,88.9
+15.74,Moderate,Clear,15,12,Parcel,81.0
